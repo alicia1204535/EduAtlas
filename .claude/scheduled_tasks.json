@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "bf3fd1e9",
+      "cron": "3 9 * * 1",
+      "prompt": "EduAtlas 每周运营提醒。请检查并执行以下任务：\n\n1. 问用户 GSC 数据（收录页面数、搜索展示数、抓取错误数）\n2. 如果用户提供了 GSC 数据，分析表现并建议内容方向\n3. 问用户是否需要写新指南、Reddit 回复草稿、或 Medium 文章\n4. 如果有新的高价值关键词发现，建议写对应文章\n5. 检查是否有需要更新的学校费用数据",
+      "createdAt": 1781509735000,
+      "recurring": true,
+      "createdBySessionId": "10e9742e-f9e2-48d9-922c-0b81e6d6fcb7",
+      "createdByPid": 6825,
+      "createdByProcStart": "Mon Jun 15 02:58:13 2026"
+    }
+  ]
+}
