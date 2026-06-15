@@ -3,7 +3,7 @@ import type { CurriculumType, SingaporeRegion } from "./types";
 export const SITE_NAME = "EduAtlas";
 export const SITE_DESCRIPTION =
   "Your guide to international schools in Singapore. Compare fees, curriculum, and admission info across 40+ international schools.";
-export const SITE_URL = "https://www.eduatlas.sg";
+export const SITE_URL = "https://edu-atlas-ten.vercel.app";
 
 export const CURRICULUM_OPTIONS: { label: string; value: CurriculumType }[] = [
   { label: "IB PYP", value: "IB PYP" },
