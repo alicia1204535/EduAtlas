@@ -1,0 +1,26 @@
+{
+  "id": "perse-school", "name": "The Perse School Singapore", "slug": "perse-school",
+  "logo": "/images/schools/perse-school/logo.svg", "heroImage": "/images/schools/perse-school/hero.jpg",
+  "tagline": "A Cambridge primary education from one of Britain's oldest independent schools",
+  "description": "The Perse School Singapore is the first international campus of The Perse School Cambridge, a prestigious British independent school founded in 1615. Opened in Singapore in January 2025 and now situated on Chestnut Drive in Bukit Timah, the school currently caters to children aged 3 to 11 (Nursery through Year 6) with plans to expand to Year 13. The curriculum follows the Cambridge Primary programme enriched with Singapore Mathematics and daily Mandarin instruction. With a cap of 24 students per class and close ties to its Cambridge parent school, The Perse Singapore offers a quintessentially British prep-school experience within a tropical setting.",
+  "curriculum": ["Cambridge Primary", "Singapore Mathematics"], "region": "Central",
+  "address": "58 Chestnut Drive, Singapore 679301", "nearestMRT": "Cashew MRT (DT2)",
+  "coordinates": { "lat": 1.3705, "lng": 103.7645 },
+  "feeRange": { "min": 25000, "max": 30000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Nursery & Reception", "annualFee": 24800 },
+    { "grade": "Year 1-2 (Key Stage 1)", "annualFee": 24800 },
+    { "grade": "Year 3-6 (Key Stage 2)", "annualFee": 24800 }
+  ],
+  "admission": { "process": "Families submit an online enquiry and application. Nursery and Reception applicants attend a play-based observation, while Year 1 and above complete age-appropriate assessments in English and Mathematics.", "requirements": ["Online enquiry form", "Application form with fee", "Previous school reports (if applicable)", "Age-appropriate assessment", "Family meeting"], "deadlines": "Rolling admissions year-round. Main entry points are Nursery, Reception, and Year 3. Academic year starts in August." },
+  "contact": { "phone": "+65 6235 9898", "email": "admissions@perse.edu.sg", "website": "https://www.perse.edu.sg" },
+  "stats": { "founded": 2025, "studentCount": 300, "teacherStudentRatio": "1:10", "averageClassSize": 24 },
+  "facilities": ["Purpose-built classroom suites", "Library and media centre", "Outdoor learning spaces", "Sports field and playgrounds", "Art and music studios", "Science discovery lab"],
+  "languages": ["English", "Mandarin"], "accreditation": ["Cambridge International", "CPE Registered"],
+  "faqs": [
+    { "question": "What is the affiliation with The Perse School Cambridge?", "answer": "The Perse School Singapore is operated under direct licence from The Perse School Cambridge (UK), founded in 1615. The Singapore campus shares the ethos, curriculum framework, and quality standards of its Cambridge parent while adapting to the local context." },
+    { "question": "Will The Perse Singapore offer secondary education?", "answer": "Yes. The school has announced plans to phase in secondary education (Years 7-13), beginning with Year 7 in 2026, eventually leading to IGCSEs and A-Level examinations." }
+  ],
+  "seo": { "title": "The Perse School Singapore — British Cambridge Primary Education in Bukit Timah | EduAtlas", "description": "The Perse School Singapore: First international campus of Cambridge UK's Perse School (est. 1615). Ages 3-11, Cambridge Primary with Singapore Maths. View 2026 fees and admissions." },
+  "featured": false, "order": 34, "updatedAt": "2026-06-15"
+}

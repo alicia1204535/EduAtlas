@@ -1,0 +1,27 @@
+{
+  "id": "knightsbridge-house", "name": "Knightsbridge House International School", "slug": "knightsbridge-house",
+  "logo": "/images/schools/knightsbridge-house/logo.svg", "heroImage": "/images/schools/knightsbridge-house/hero.jpg",
+  "tagline": "Quality Cambridge education with no hidden fees, frozen since 2021",
+  "description": "Knightsbridge House International School (KBH), founded in 2021, is one of Singapore's fastest-growing affordable international schools, serving over 600 students from more than 42 nationalities. With campuses at Bukit Merah (Years 1-13) and Changi Business Park (Years 1-9), KBH delivers the full Cambridge International pathway from Primary through to A-Levels. Remarkably, the school has held its base tuition fee at SGD 12,000 since opening and has committed to no increase through 2027. KBH has achieved world-leading results in Cambridge MidYIS assessments for four consecutive years and offers a transparent fee structure with no application, registration, or enrolment charges.",
+  "curriculum": ["Cambridge Primary", "Cambridge IGCSE", "Cambridge A-Level"], "region": "Central",
+  "address": "167 Jalan Bukit Merah, Connection One, Tower 4, #02-15, Singapore 150167", "nearestMRT": "Redhill MRT (EW18)",
+  "coordinates": { "lat": 1.2870, "lng": 103.8225 },
+  "feeRange": { "min": 13000, "max": 16000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Year 1-6 (Primary)", "annualFee": 14000 },
+    { "grade": "Year 7-9 (Lower Secondary)", "annualFee": 14500 },
+    { "grade": "Year 10-11 (IGCSE)", "annualFee": 15000 },
+    { "grade": "Year 12-13 (A-Level)", "annualFee": 15000 }
+  ],
+  "admission": { "process": "KBH keeps admissions simple with no application fees. Families complete an online form, submit school reports, and attend an informal meeting and placement assessment. Offers are typically made within one week.", "requirements": ["Online application form", "Previous school reports", "Student pass or identification documents", "Placement assessment", "Family meeting"], "deadlines": "Rolling admissions year-round. No application deadlines. Academic year begins August; January intake also available." },
+  "contact": { "phone": "+65 8399 6449", "email": "info@kbh.edu.sg", "website": "https://www.kbh.edu.sg" },
+  "stats": { "founded": 2021, "studentCount": 600, "teacherStudentRatio": "1:14", "averageClassSize": 26 },
+  "facilities": ["Cambridge-accredited science laboratory", "Library and media centre", "Indoor play area", "Performance space", "Art and design studio", "Cafeteria"],
+  "languages": ["English", "Mandarin"], "accreditation": ["EduTrust", "Cambridge International", "CPE Registered"],
+  "faqs": [
+    { "question": "Are there really no application or registration fees?", "answer": "Correct. KBH charges no application fee, no registration fee, no enrolment fee, and no deposit. The only mandatory costs are tuition, Cambridge programme materials, and annual student insurance." },
+    { "question": "How has KBH performed academically?", "answer": "KBH students have ranked world number one in the Cambridge MidYIS assessment for Year 7 for four consecutive years (2023-2026), and achieved an average 81% score in Year 9 Checkpoint Mathematics." }
+  ],
+  "seo": { "title": "Knightsbridge House International School Singapore — Affordable Cambridge Education | EduAtlas", "description": "Knightsbridge House International School: Cambridge curriculum from SGD 12,000/year, fees frozen since 2021. 600+ students across Bukit Merah and Changi campuses. View 2026 fees." },
+  "featured": false, "order": 38, "updatedAt": "2026-06-15"
+}

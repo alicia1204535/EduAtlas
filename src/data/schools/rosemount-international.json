@@ -1,0 +1,26 @@
+{
+  "id": "rosemount-international", "name": "Rosemount International School", "slug": "rosemount-international",
+  "logo": "/images/schools/rosemount-international/logo.svg", "heroImage": "/images/schools/rosemount-international/hero.jpg",
+  "tagline": "Nurturing early learners through inquiry-based education in a warm, supportive setting",
+  "description": "Rosemount International School, established in 1999, is a small private international school in Siglap dedicated to early childhood and junior primary education for children aged 3 to 8. Formerly known as Rosemount Kindergarten, the school follows an inquiry-based, developmental approach that encourages curiosity, discovery, and communication. With a student-centred philosophy and teachers recruited from top international schools worldwide, Rosemount provides a nurturing environment where young learners build strong foundations in literacy, numeracy, and social-emotional skills before transitioning to larger primary schools.",
+  "curriculum": ["IPC", "Inquiry-Based Learning"], "region": "East",
+  "address": "25 Ettrick Terrace, Singapore 458588", "nearestMRT": "Siglap MRT (TE28)",
+  "coordinates": { "lat": 1.3165, "lng": 103.9350 },
+  "feeRange": { "min": 23000, "max": 29000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Preparatory 1-2 (K1-K2)", "annualFee": 24000 },
+    { "grade": "Preparatory 3 (K3)", "annualFee": 25000 },
+    { "grade": "Grade 1-2 (Junior Primary)", "annualFee": 25000 }
+  ],
+  "admission": { "process": "Parents submit an application and attend a school tour. Children participate in a gentle observation session to assess readiness, and families meet with the head of school before an offer is made.", "requirements": ["Application form", "Child's birth certificate", "Passport copy", "School observation session", "Parent interview"], "deadlines": "Rolling admissions. Main intake in August. Early application recommended as class sizes are limited." },
+  "contact": { "phone": "+65 6446 4636", "email": "enquiries@ris.edu.sg", "website": "https://www.ris.edu.sg" },
+  "stats": { "founded": 1999, "studentCount": 150, "teacherStudentRatio": "1:7", "averageClassSize": 16 },
+  "facilities": ["Early years discovery classrooms", "Outdoor playground and garden", "Library corner", "Art and creative space", "Music and movement room", "Sensory play areas"],
+  "languages": ["English"], "accreditation": ["EduTrust", "CPE Registered"],
+  "faqs": [
+    { "question": "What ages does Rosemount serve?", "answer": "Rosemount serves children aged 3 to 8 years, covering Preparatory 1 through Grade 2. It is an early childhood and junior primary school, and families typically transition to larger schools from Grade 3 onwards." },
+    { "question": "How does inquiry-based learning work at Rosemount?", "answer": "Teachers design interdisciplinary units around children's questions and interests. Students learn by exploring real-world themes, developing research and communication skills through hands-on projects rather than rote instruction." }
+  ],
+  "seo": { "title": "Rosemount International School Singapore — Early Years & Junior Primary | EduAtlas", "description": "Rosemount International School in Siglap: Inquiry-based early years education for ages 3-8. Small classes, nurturing environment. View 2026 fees, curriculum and admissions." },
+  "featured": false, "order": 35, "updatedAt": "2026-06-15"
+}

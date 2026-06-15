@@ -1,0 +1,27 @@
+{
+  "id": "ascensia-international", "name": "Ascensia International School", "slug": "ascensia-international",
+  "logo": "/images/schools/ascensia-international/logo.svg", "heroImage": "/images/schools/ascensia-international/hero.jpg",
+  "tagline": "A boutique international education with multiple curriculum pathways",
+  "description": "Ascensia International School (formerly Ascensia Academy) is a boutique private school located near Henderson in central Singapore, offering a personalised approach to international education. Founded in 1992, the school provides Cambridge Primary, IGCSE, and A-Level programmes, and is an IB World School candidate for the IB Primary Years Programme and Diploma Programme. With approximately 200 students, Ascensia maintains small class sizes that allow for individualised attention. The school also offers AEIS preparatory courses for international students seeking entry into Singapore's mainstream government schools.",
+  "curriculum": ["Cambridge Primary", "Cambridge IGCSE", "Cambridge A-Level", "IB PYP"], "region": "Central",
+  "address": "106A Henderson Crescent, Singapore 151106", "nearestMRT": "Redhill MRT (EW18)",
+  "coordinates": { "lat": 1.2865, "lng": 103.8195 },
+  "feeRange": { "min": 18000, "max": 32000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Primary (Cambridge)", "annualFee": 18000 },
+    { "grade": "Secondary (IGCSE)", "annualFee": 23000 },
+    { "grade": "Pre-University (A-Level)", "annualFee": 28000 },
+    { "grade": "AEIS Preparatory", "annualFee": 14000 }
+  ],
+  "admission": { "process": "Applications are accepted year-round. Prospective students complete an entrance assessment and attend an interview with the admissions team. AEIS preparation courses have specific intake periods.", "requirements": ["Completed application form", "Academic transcripts", "Passport copy", "Placement assessment", "Admissions interview"], "deadlines": "Rolling admissions for Cambridge and IB programmes. AEIS prep intakes aligned with MOE examination dates." },
+  "contact": { "phone": "+65 6733 4433", "email": "info@ascensia.edu.sg", "website": "https://www.ascensia.edu.sg" },
+  "stats": { "founded": 1992, "studentCount": 200, "teacherStudentRatio": "1:8", "averageClassSize": 18 },
+  "facilities": ["Modern classrooms with interactive whiteboards", "Science laboratory", "Library and reading room", "Student lounge", "Outdoor recreation area"],
+  "languages": ["English", "Mandarin"], "accreditation": ["EduTrust", "CPE Registered", "Cambridge International", "IB Candidate School"],
+  "faqs": [
+    { "question": "What is the AEIS preparatory programme?", "answer": "Ascensia offers a focused AEIS (Admissions Exercise for International Students) preparation course to help international students pass the entrance exam for Singapore's mainstream government primary and secondary schools." },
+    { "question": "Is Ascensia a full IB school?", "answer": "Ascensia is an IB candidate school for the PYP and DP programmes. As a candidate school, it is pursuing full authorisation from the International Baccalaureate Organisation while currently delivering the Cambridge curriculum." }
+  ],
+  "seo": { "title": "Ascensia International School Singapore — Cambridge & IB Pathways | EduAtlas", "description": "Ascensia International School near Henderson: Cambridge Primary, IGCSE, A-Level and IB PYP candidate. Boutique school with 200 students. View 2026 fees, AEIS prep and admissions." },
+  "featured": false, "order": 33, "updatedAt": "2026-06-15"
+}

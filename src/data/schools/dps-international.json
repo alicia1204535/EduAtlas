@@ -1,0 +1,28 @@
+{
+  "id": "dps-international", "name": "DPS International School", "slug": "dps-international",
+  "logo": "/images/schools/dps-international/logo.svg", "heroImage": "/images/schools/dps-international/hero.jpg",
+  "tagline": "Indian heritage meets international standards, part of the prestigious DPS Society",
+  "description": "DPS International School Singapore, established in 2004, is part of the renowned Delhi Public School Society of India, one of the world's largest networks of schools. The school operates across two campuses — the main Kovan campus (K-12) and the Alexandra campus (K-6) — serving approximately 500 students. DPS International offers the ICSE/ISC Indian curriculum alongside the Cambridge IGCSE and A-Level pathways, giving families flexibility between Indian and British qualifications. With a strong focus on academic rigour and holistic development, the school maintains values rooted in Indian educational traditions while preparing students for a global future.",
+  "curriculum": ["ICSE/ISC", "Cambridge IGCSE", "Cambridge A-Level"], "region": "North-East",
+  "address": "36 Aroozoo Avenue, Singapore 539842", "nearestMRT": "Kovan MRT (NE13)",
+  "coordinates": { "lat": 1.3585, "lng": 103.8820 },
+  "feeRange": { "min": 6500, "max": 29000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Kindergarten", "annualFee": 7000 },
+    { "grade": "Grades 1-5 (Primary)", "annualFee": 10000 },
+    { "grade": "Grades 6-8 (Middle)", "annualFee": 14000 },
+    { "grade": "Grades 9-10 (IGCSE/ICSE)", "annualFee": 18000 },
+    { "grade": "Grades 11-12 (A-Level/ISC)", "annualFee": 22000 }
+  ],
+  "admission": { "process": "Submit an online application with supporting documents. Students are assessed through an entrance test in English and Mathematics, followed by an interaction with the principal.", "requirements": ["Completed application form", "Previous school reports", "Birth certificate and passport copy", "Entrance assessment in English and Mathematics", "Interview with principal"], "deadlines": "Admissions open from January. Academic year runs April to March. Limited mid-year intake available." },
+  "contact": { "phone": "+65 6285 6300", "email": "admissions@dps.edu.sg", "website": "https://www.dps.edu.sg" },
+  "stats": { "founded": 2004, "studentCount": 500, "teacherStudentRatio": "1:19", "averageClassSize": 26 },
+  "facilities": ["Library and media centre", "Computer and science laboratories", "Sports field with cricket pitches", "Indoor sports hall", "Performing arts studio", "Cafeteria serving vegetarian meals"],
+  "languages": ["English", "Hindi", "Tamil", "Mandarin"], "accreditation": ["EduTrust", "Cambridge International", "CISCE Affiliated"],
+  "faqs": [
+    { "question": "Does DPS International offer CBSE?", "answer": "DPS International follows the ICSE/ISC curriculum (not CBSE) for its Indian track, alongside the Cambridge IGCSE and A-Level programme for students choosing the British pathway." },
+    { "question": "Are meals provided at school?", "answer": "Yes, the school cafeteria serves vegetarian meals. All meals are prepared in accordance with Indian dietary preferences and nutritional guidelines." }
+  ],
+  "seo": { "title": "DPS International School Singapore — ICSE, IGCSE & A-Level | EduAtlas", "description": "DPS International School Singapore: Part of the DPS Society. ICSE, Cambridge IGCSE and A-Level curriculum. Two campuses in Kovan and Alexandra. View 2026 fees and admissions." },
+  "featured": false, "order": 32, "updatedAt": "2026-06-15"
+}

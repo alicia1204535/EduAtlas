@@ -1,0 +1,26 @@
+{
+  "id": "waseda-shibuya", "name": "Waseda Shibuya Senior High School Singapore", "slug": "waseda-shibuya",
+  "logo": "/images/schools/waseda-shibuya/logo.svg", "heroImage": "/images/schools/waseda-shibuya/hero.jpg",
+  "tagline": "A Japanese national curriculum boarding school with a direct path to Waseda University",
+  "description": "Waseda Shibuya Senior High School Singapore, established in 1991, is a unique Japanese international boarding school in the West Coast area. Designated by Japan's Ministry of Education (MEXT) as an overseas educational facility, the school delivers the full Japanese national curriculum in Japanese to students aged 16 to 18. With approximately 315 co-educational boarders, the school maintains strong ties to Waseda University in Tokyo, with roughly 60% of graduates progressing directly to the university. The campus features a gymnasium, an astronomy observatory, and a performing arts theatre, and hosts an annual cultural festival that has become a highlight of the Japanese expatriate community calendar in Singapore.",
+  "curriculum": ["Japanese National Curriculum"], "region": "West",
+  "address": "57 West Coast Road, Singapore 127366", "nearestMRT": "Clementi MRT (EW23)",
+  "coordinates": { "lat": 1.3105, "lng": 103.7620 },
+  "feeRange": { "min": 20000, "max": 35000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Year 1 (Senior High)", "annualFee": 27000 },
+    { "grade": "Year 2 (Senior High)", "annualFee": 27000 },
+    { "grade": "Year 3 (Senior High)", "annualFee": 20000 }
+  ],
+  "admission": { "process": "Applicants must be Japanese nationals or demonstrate strong Japanese language proficiency. Students sit for a screening test in Japanese, English, and Mathematics, followed by an interview conducted in Japanese.", "requirements": ["Application form with registration fee", "Japanese language proficiency (mandatory)", "Screening test (Japanese, English, Mathematics)", "Interview in Japanese", "Medical examination report"], "deadlines": "Applications open in October-November for the following April intake. Screening tests held in November-December. Late applications considered where spaces remain." },
+  "contact": { "phone": "+65 6778 8000", "email": "info@waseda-shibuya.edu.sg", "website": "https://www.waseda-shibuya.edu.sg" },
+  "stats": { "founded": 1991, "studentCount": 315, "teacherStudentRatio": "1:12", "averageClassSize": 35 },
+  "facilities": ["Boarding residences", "Gymnasium", "Astronomy observatory", "Performing arts theatre", "Science laboratories", "Library with Japanese and English collections"],
+  "languages": ["Japanese", "English"], "accreditation": ["MEXT Designated Overseas School", "CPE Registered"],
+  "faqs": [
+    { "question": "Do students need to be Japanese to attend?", "answer": "While the school primarily serves Japanese expatriate families, non-Japanese students with strong Japanese language proficiency may apply. All instruction except English classes is conducted in Japanese." },
+    { "question": "What is the pathway to Waseda University?", "answer": "Approximately 60% of graduates progress to Waseda University in Tokyo through a preferential admission arrangement. Students who choose other universities apply through standard Japanese university entrance procedures or to international institutions." }
+  ],
+  "seo": { "title": "Waseda Shibuya Senior High School Singapore — Japanese Curriculum Boarding School | EduAtlas", "description": "Waseda Shibuya Senior High School: Japanese national curriculum boarding school in West Coast. Direct pathway to Waseda University. Ages 16-18. View 2026 fees and admissions." },
+  "featured": false, "order": 40, "updatedAt": "2026-06-15"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dimensions", "name": "Dimensions International College", "slug": "dimensions",
+  "logo": "/images/schools/dimensions/logo.svg", "heroImage": "/images/schools/dimensions/hero.jpg",
+  "tagline": "Comprehensive private education from Cambridge IGCSE to degree pathways",
+  "description": "Dimensions International College is a well-established private education institution in Singapore, operating across multiple campuses including its main high school campus in Kovan. The college offers the Cambridge International curriculum at primary, secondary (IGCSE), and pre-university (A-Level) levels, alongside AEIS preparatory courses and a range of diploma and degree programmes in partnership with UK universities. With approximately 500 students across its school-level programmes, Dimensions provides a flexible, accessible route for both local and international students. The college is registered with the Committee for Private Education (CPE) and holds EduTrust certification, assuring quality standards across all its offerings.",
+  "curriculum": ["Cambridge Primary", "Cambridge IGCSE", "Cambridge A-Level"], "region": "North-East",
+  "address": "58 Lowland Road, Singapore 547453", "nearestMRT": "Kovan MRT (NE13)",
+  "coordinates": { "lat": 1.3605, "lng": 103.8840 },
+  "feeRange": { "min": 10000, "max": 20000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Primary (Year 1-6)", "annualFee": 11000 },
+    { "grade": "Lower Secondary (Year 7-8)", "annualFee": 14000 },
+    { "grade": "IGCSE (Year 9-10)", "annualFee": 16000 },
+    { "grade": "A-Level (Year 11-12)", "annualFee": 19000 }
+  ],
+  "admission": { "process": "Applications are accepted monthly. Students submit academic records and sit for a placement test. The admissions team evaluates each application individually and may request an interview.", "requirements": ["Completed application form", "Academic transcripts", "Passport copy and student pass", "Placement test in English and Mathematics", "Admissions interview (if required)"], "deadlines": "Monthly intakes throughout the year (except February, June, and December). Contact admissions for upcoming intake dates." },
+  "contact": { "phone": "+65 6334 0600", "email": "enquiry@dimensions.edu.sg", "website": "https://www.dimensions.edu.sg" },
+  "stats": { "founded": 1980, "studentCount": 500, "teacherStudentRatio": "1:15", "averageClassSize": 25 },
+  "facilities": ["Air-conditioned classrooms with AV equipment", "Science laboratories", "Computer lab and library", "Student lounge and recreation area", "Cafeteria"],
+  "languages": ["English", "Mandarin"], "accreditation": ["EduTrust", "CPE Registered", "Cambridge International"],
+  "faqs": [
+    { "question": "Does Dimensions offer AEIS preparation?", "answer": "Yes, Dimensions runs a dedicated AEIS (Admissions Exercise for International Students) preparatory programme to help international students prepare for entry into Singapore mainstream government schools at primary and secondary levels." },
+    { "question": "Can students progress to university after completing A-Levels at Dimensions?", "answer": "Yes. Students who complete Cambridge A-Levels at Dimensions can apply to universities worldwide, and the college also offers in-house diploma and degree progression pathways through its partnerships with UK universities." }
+  ],
+  "seo": { "title": "Dimensions International College Singapore — Cambridge IGCSE, A-Level & AEIS Prep | EduAtlas", "description": "Dimensions International College in Kovan: Cambridge Primary, IGCSE and A-Level programmes. AEIS preparatory courses. 500 students. View 2026 fees, intakes and admissions." },
+  "featured": false, "order": 39, "updatedAt": "2026-06-15"
+}

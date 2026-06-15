@@ -1,0 +1,26 @@
+{
+  "id": "spectrum-international", "name": "Spectrum International School", "slug": "spectrum-international",
+  "logo": "/images/schools/spectrum-international/logo.svg", "heroImage": "/images/schools/spectrum-international/hero.jpg",
+  "tagline": "Accessible Cambridge education in a supportive, community-centred environment",
+  "description": "Spectrum International School is an affordable private institution in the Bukit Batok area of Singapore, offering the Cambridge Primary, Lower Secondary, and IGCSE curriculum to approximately 300 students. The school is designed for families seeking a compact, community-focused alternative to larger international schools, with fees kept intentionally accessible. Spectrum emphasises small-group instruction and a supportive pastoral care system, making it particularly suitable for students who benefit from a more intimate learning environment. The school prepares students for Cambridge Checkpoint and IGCSE examinations with a focus on building confidence alongside academic achievement.",
+  "curriculum": ["Cambridge Primary", "Cambridge IGCSE"], "region": "West",
+  "address": "2 Bukit Batok Street 23, Singapore 659554", "nearestMRT": "Bukit Batok MRT (NS2)",
+  "coordinates": { "lat": 1.3490, "lng": 103.7455 },
+  "feeRange": { "min": 12000, "max": 18000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Primary (Year 1-6)", "annualFee": 12000 },
+    { "grade": "Lower Secondary (Year 7-9)", "annualFee": 15000 },
+    { "grade": "IGCSE (Year 10-11)", "annualFee": 18000 }
+  ],
+  "admission": { "process": "Families complete an online application and attend a school tour. Students take a brief placement test in English and Mathematics to determine appropriate year-group entry.", "requirements": ["Online application form", "School reports from previous 2 years", "Passport copy and student pass details", "Placement assessment", "School tour and family interview"], "deadlines": "Rolling admissions. Main academic year begins in August. Mid-year entry available where spaces permit." },
+  "contact": { "phone": "+65 6560 2000", "email": "info@spectrum.edu.sg", "website": "https://www.spectrum.edu.sg" },
+  "stats": { "founded": 2012, "studentCount": 300, "teacherStudentRatio": "1:12", "averageClassSize": 22 },
+  "facilities": ["Modern classrooms with smart boards", "Integrated science laboratory", "Library and study centre", "Indoor sports hall", "Design and art studio", "Outdoor playground"],
+  "languages": ["English", "Mandarin"], "accreditation": ["EduTrust", "Cambridge International", "CPE Registered"],
+  "faqs": [
+    { "question": "What makes Spectrum affordable compared to other international schools?", "answer": "Spectrum maintains lower fees by operating a streamlined, single-campus model with a focused Cambridge curriculum, avoiding the overhead costs associated with larger multi-campus or multi-curriculum institutions." },
+    { "question": "Does Spectrum offer EAL support?", "answer": "Yes, the school provides English as an Additional Language support for students who need extra help with academic English, integrated into the regular timetable at no additional cost." }
+  ],
+  "seo": { "title": "Spectrum International School Singapore — Affordable Cambridge IGCSE Education | EduAtlas", "description": "Spectrum International School in Bukit Batok: Affordable Cambridge Primary and IGCSE curriculum from SGD 12,000/year. Small community of 300 students. View 2026 fees and admissions." },
+  "featured": false, "order": 37, "updatedAt": "2026-06-15"
+}

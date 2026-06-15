@@ -1,0 +1,28 @@
+{
+  "id": "yuvabharathi", "name": "Yuvabharathi International School", "slug": "yuvabharathi",
+  "logo": "/images/schools/yuvabharathi/logo.svg", "heroImage": "/images/schools/yuvabharathi/hero.jpg",
+  "tagline": "Affordable CBSE and Cambridge education in Singapore's west",
+  "description": "Yuvabharathi International School (YBIS) is one of Singapore's most affordable international schools, located in Jurong West. Established in 2009, the school serves approximately 1,300 students and offers three distinct curriculum pathways: CBSE (India's Central Board of Secondary Education) from primary through Class 12, the Cambridge International programme (Primary through A-Level), and a Montessori early years programme. YBIS operates on an April-to-March academic year and provides a vegetarian-only campus reflecting its Indian heritage. The school's expansive facilities include science labs, a performing arts theatre, and multiple sports fields supporting cricket, football, and basketball.",
+  "curriculum": ["CBSE", "Cambridge Primary", "Cambridge IGCSE", "Cambridge A-Level", "Montessori"], "region": "West",
+  "address": "3 Hu Ching Road, Jurong West, Singapore 619651", "nearestMRT": "Lakeside MRT (EW26)",
+  "coordinates": { "lat": 1.3430, "lng": 103.7155 },
+  "feeRange": { "min": 6000, "max": 22000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Montessori (M1-M2)", "annualFee": 6000 },
+    { "grade": "Primary 1-5 (Cambridge)", "annualFee": 10800 },
+    { "grade": "Lower Secondary (Cambridge)", "annualFee": 11500 },
+    { "grade": "IGCSE (Class 9-10)", "annualFee": 16200 },
+    { "grade": "AS/A-Level / CBSE 11-12", "annualFee": 22200 }
+  ],
+  "admission": { "process": "Submit an online application with academic records. Students sit for a grade-level assessment in English and Mathematics, and families meet with the academic team for an interaction.", "requirements": ["Online application form", "Previous school reports", "Birth certificate and passport copy", "Grade-level assessment", "Parent-student interaction"], "deadlines": "Admissions open November-December. Academic year runs April to March. Mid-term admissions considered on a case-by-case basis." },
+  "contact": { "phone": "+65 6265 2342", "email": "principal@yuvabharathi.sg", "website": "https://www.yuvabharathi.sg" },
+  "stats": { "founded": 2009, "studentCount": 1300, "teacherStudentRatio": "1:23", "averageClassSize": 30 },
+  "facilities": ["Science and computer laboratories", "Performing arts theatre", "Sports fields (cricket, football)", "Indoor basketball and badminton courts", "Butterfly garden", "Vegetarian cafeteria"],
+  "languages": ["English", "Hindi", "Tamil", "Mandarin", "French"], "accreditation": ["EduTrust", "Cambridge International", "CBSE Affiliated"],
+  "faqs": [
+    { "question": "Does YBIS offer both CBSE and Cambridge?", "answer": "Yes, Yuvabharathi is one of the few schools in Singapore offering both the CBSE Indian curriculum and the Cambridge International pathway, giving families the flexibility to choose the qualification that best suits their child's future plans." },
+    { "question": "Is the campus fully vegetarian?", "answer": "Yes, in keeping with the school's Indian cultural values, the on-site cafeteria serves vegetarian meals only. Students are welcome to bring their own food if preferred." }
+  ],
+  "seo": { "title": "Yuvabharathi International School Singapore — CBSE & Cambridge Dual Curriculum | EduAtlas", "description": "Yuvabharathi International School in Jurong West: Affordable CBSE and Cambridge education from SGD 6,000/year. 1,300 students, Montessori to A-Level. View 2026 fees and admissions." },
+  "featured": false, "order": 36, "updatedAt": "2026-06-15"
+}

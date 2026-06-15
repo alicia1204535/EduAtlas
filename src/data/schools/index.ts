@@ -30,6 +30,16 @@ import northLondonCollegiate from "./north-london-collegiate.json";
 import etonhouse from "./etonhouse.json";
 import integratedInternational from "./integrated-international.json";
 import hillsideWorldAcademy from "./hillside-world-academy.json";
+import stFrancisMethodist from "./st-francis-methodist.json";
+import dpsInternational from "./dps-international.json";
+import ascensiaInternational from "./ascensia-international.json";
+import perseSchool from "./perse-school.json";
+import rosemountInternational from "./rosemount-international.json";
+import yuvabharathi from "./yuvabharathi.json";
+import spectrumInternational from "./spectrum-international.json";
+import knightsbridgeHouse from "./knightsbridge-house.json";
+import dimensions from "./dimensions.json";
+import wasedaShibuya from "./waseda-shibuya.json";
 
 export const allSchools: School[] = [
   uwcseaDover,
@@ -62,4 +72,14 @@ export const allSchools: School[] = [
   etonhouse,
   integratedInternational,
   hillsideWorldAcademy,
+  stFrancisMethodist,
+  dpsInternational,
+  ascensiaInternational,
+  perseSchool,
+  rosemountInternational,
+  yuvabharathi,
+  spectrumInternational,
+  knightsbridgeHouse,
+  dimensions,
+  wasedaShibuya,
 ] as School[];

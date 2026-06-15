@@ -1,0 +1,28 @@
+{
+  "id": "st-francis-methodist", "name": "St. Francis Methodist School", "slug": "st-francis-methodist",
+  "logo": "/images/schools/st-francis-methodist/logo.svg", "heroImage": "/images/schools/st-francis-methodist/hero.jpg",
+  "tagline": "A unique blend of Singapore-Cambridge and international curricula since 1960",
+  "description": "St. Francis Methodist School (SFMS) is a private Methodist institution in Upper Bukit Timah, offering an unusually broad range of academic pathways: Singapore-Cambridge GCE O-Level, Cambridge IGCSE, Cambridge AS/A-Levels, the International Baccalaureate Diploma Programme, and the Western Australian Certificate of Education (WACE). Founded in 1960 and serving approximately 700 students from over 20 countries, SFMS combines small class sizes with a values-driven Methodist ethos. The school is particularly popular among families seeking a bridging option between local and international curricula, with approximately 80% international students and a well-established track record in university placements.",
+  "curriculum": ["Singapore-Cambridge GCE", "Cambridge IGCSE", "Cambridge A-Level", "IB DP", "WACE"], "region": "West",
+  "address": "492 Upper Bukit Timah Road, Singapore 678095", "nearestMRT": "Hillview MRT (DT3)",
+  "coordinates": { "lat": 1.3535, "lng": 103.7630 },
+  "feeRange": { "min": 16500, "max": 35000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Primary 1-3 (Cambridge)", "annualFee": 20000 },
+    { "grade": "Primary 4-6 (Cambridge)", "annualFee": 19500 },
+    { "grade": "Secondary 1-4 (O-Level/IGCSE)", "annualFee": 22500 },
+    { "grade": "Pre-University (IBDP)", "annualFee": 34000 },
+    { "grade": "Pre-University (WACE)", "annualFee": 26000 }
+  ],
+  "admission": { "process": "SFMS accepts applications throughout the year with monthly intakes. International students sit a placement test in English and Mathematics, followed by an interview.", "requirements": ["Completed application form", "School reports for the past 2 years", "Passport copy and immigration documents", "English and Mathematics placement test", "Interview with academic staff"], "deadlines": "Rolling admissions with monthly intakes. Main academic year begins January." },
+  "contact": { "phone": "+65 6760 0889", "email": "enquiries@sfms.edu.sg", "website": "https://www.sfms.edu.sg" },
+  "stats": { "founded": 1960, "studentCount": 700, "teacherStudentRatio": "1:10", "averageClassSize": 25 },
+  "facilities": ["Science laboratories", "Performing arts theatre", "Library and study centre", "Sports hall and outdoor courts", "Chapel", "Student lounge and cafeteria"],
+  "languages": ["English", "Mandarin"], "accreditation": ["EduTrust", "CPE Registered", "IB World School", "ISO 9001"],
+  "faqs": [
+    { "question": "Does SFMS offer boarding?", "answer": "SFMS does not operate its own boarding facilities, but the school assists international students in arranging homestay accommodation with vetted local guardians." },
+    { "question": "Can students transfer from the local MOE system to SFMS?", "answer": "Yes. SFMS is one of the few private schools that offers both Singapore-Cambridge GCE and international pathways, making it an excellent bridging option for students transitioning from the local system." }
+  ],
+  "seo": { "title": "St. Francis Methodist School Singapore — Local & International Curriculum Blend | EduAtlas", "description": "St. Francis Methodist School in Upper Bukit Timah: Singapore-Cambridge GCE, IGCSE, IBDP and WACE pathways. Founded 1960, 700 students. View 2026 fees, admissions and programmes." },
+  "featured": false, "order": 31, "updatedAt": "2026-06-15"
+}
