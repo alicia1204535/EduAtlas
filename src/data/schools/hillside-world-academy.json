@@ -1,0 +1,27 @@
+{
+  "id": "hillside-world-academy", "name": "Hillside World Academy", "slug": "hillside-world-academy",
+  "logo": "/images/schools/hillside-world-academy/logo.svg", "heroImage": "/images/schools/hillside-world-academy/hero.jpg",
+  "tagline": "A Chinese-English bilingual IB education with small class intimacy",
+  "description": "Hillside World Academy (HWA) is a distinctive Chinese-English bilingual international school located in the West Coast area. With approximately 200 students from Kindergarten through Grade 12, HWA offers the IB Primary Years Programme and IB Diploma Programme, differentiated by a strong bilingual Mandarin-English immersion model. The school maintains intentionally small class sizes of 15-18 students, allowing for personalised learning and deep language acquisition. HWA is particularly well-suited for families seeking a rigorous bilingual education that bridges Eastern and Western pedagogical traditions within the globally recognised IB framework.",
+  "curriculum": ["IB PYP", "IB DP"], "region": "West",
+  "address": "321 Clementi Avenue 3, Singapore 129905", "nearestMRT": "Clementi MRT (EW23)",
+  "coordinates": { "lat": 1.3185, "lng": 103.7664 },
+  "feeRange": { "min": 23000, "max": 32000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Kindergarten 1-2", "annualFee": 23000 },
+    { "grade": "Grade 1-5 (IB PYP)", "annualFee": 26000 },
+    { "grade": "Grade 6-10 (Pre-DP)", "annualFee": 29000 },
+    { "grade": "Grade 11-12 (IBDP)", "annualFee": 32000 }
+  ],
+  "admission": { "process": "HWA welcomes applications from families committed to bilingual education. Submit an online application, followed by a placement assessment in English and Mandarin, and a family interview.", "requirements": ["Online application", "School reports", "Passport copy", "English and Mandarin placement assessment", "Family interview"], "deadlines": "Rolling admissions. Main intake in August." },
+  "contact": { "phone": "+65 6252 2122", "email": "admissions@hwa.edu.sg", "website": "https://www.hwa.edu.sg" },
+  "stats": { "founded": 2006, "studentCount": 200, "teacherStudentRatio": "1:6", "averageClassSize": 16 },
+  "facilities": ["Library with bilingual resources", "Science lab", "Art studio", "Music room", "Indoor sports hall", "Outdoor learning courtyard"],
+  "languages": ["English", "Mandarin"], "accreditation": ["EduTrust", "IB World School"],
+  "faqs": [
+    { "question": "How bilingual is the HWA curriculum?", "answer": "HWA operates a 50:50 Chinese-English bilingual model in the early years, with Mandarin used extensively across subjects. As students progress, the balance shifts towards English while maintaining strong Mandarin literacy." },
+    { "question": "What is 'Pre-DP' at HWA?", "answer": "HWA's Pre-DP programme for Grades 6-10 bridges the IB PYP and DP, combining elements of the IB Middle Years framework with intensive subject preparation for the Diploma Programme." }
+  ],
+  "seo": { "title": "Hillside World Academy Singapore — Chinese-English Bilingual IB School | EduAtlas", "description": "Hillside World Academy in West Coast: Chinese-English bilingual IB school. IB PYP and IBDP with small classes of 15-18. 200 students. View 2026 fees, admissions and bilingual programme." },
+  "featured": false, "order": 30, "updatedAt": "2026-06-01"
+}

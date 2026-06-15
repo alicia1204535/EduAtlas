@@ -1,0 +1,28 @@
+{
+  "id": "nps-international", "name": "NPS International School Singapore", "slug": "nps-international",
+  "logo": "/images/schools/nps-international/logo.svg", "heroImage": "/images/schools/nps-international/hero.jpg",
+  "tagline": "Indian heritage with a global IB and Cambridge pathway",
+  "description": "NPS International School is a leading school offering a blend of Indian and international curricula. Located near Serangoon, NPS provides the CBSE (Indian) curriculum alongside Cambridge IGCSE and the IB Diploma Programme at the senior levels. With around 1,500 students, the school is known for strong academic results and a values-driven approach rooted in Indian educational traditions. NPS has a sister school in Bangalore and is part of the NPS Group of Institutions, one of India's most respected educational networks.",
+  "curriculum": ["Indian", "IGCSE", "IB DP", "Cambridge"], "region": "North-East",
+  "address": "11 Hillside Drive, Singapore 548926", "nearestMRT": "Serangoon MRT (NE12/CC13)",
+  "coordinates": { "lat": 1.3554, "lng": 103.8730 },
+  "feeRange": { "min": 22000, "max": 32000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Kindergarten", "annualFee": 22000 },
+    { "grade": "Grade 1-5", "annualFee": 25000 },
+    { "grade": "Grade 6-8", "annualFee": 27500 },
+    { "grade": "Grade 9-10 (IGCSE)", "annualFee": 30000 },
+    { "grade": "Grade 11-12 (IBDP)", "annualFee": 32000 }
+  ],
+  "admission": { "process": "Submit an online application with supporting documents. Shortlisted applicants are invited for an entrance assessment and family interview.", "requirements": ["Completed application form", "School reports for previous 2 years", "Birth certificate and passport copy", "Application fee"], "deadlines": "Rolling admissions. Primary intake in April (Indian academic year) and August (international)." },
+  "contact": { "phone": "+65 6294 2400", "email": "admissions@nps.edu.sg", "website": "https://www.nps.edu.sg" },
+  "stats": { "founded": 2008, "studentCount": 1500, "teacherStudentRatio": "1:12", "averageClassSize": 24 },
+  "facilities": ["Science labs", "Library and media centre", "Computer labs", "Multi-purpose hall", "Sports field", "Art and music studios"],
+  "languages": ["English", "Hindi", "Mandarin", "Tamil"], "accreditation": ["EduTrust", "IB World School", "Cambridge International"],
+  "faqs": [
+    { "question": "What curricula does NPS offer at the high school level?", "answer": "NPS offers both the IB Diploma Programme and Cambridge IGCSE at the senior level, allowing students to choose the pathway that best fits their university goals." },
+    { "question": "Is NPS only for Indian students?", "answer": "No. While NPS has Indian roots and offers CBSE, over 20 nationalities are represented in the student body. The school welcomes students of all backgrounds." }
+  ],
+  "seo": { "title": "NPS International School Singapore — CBSE, IBDP & IGCSE | EduAtlas", "description": "NPS International School near Serangoon: CBSE Indian curriculum plus IBDP and Cambridge IGCSE. 1,500 students. View 2026 fees, admission info and curriculum pathways." },
+  "featured": false, "order": 20, "updatedAt": "2026-06-01"
+}

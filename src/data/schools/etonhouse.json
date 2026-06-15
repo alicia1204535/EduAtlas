@@ -1,0 +1,28 @@
+{
+  "id": "etonhouse", "name": "EtonHouse International School", "slug": "etonhouse",
+  "logo": "/images/schools/etonhouse/logo.svg", "heroImage": "/images/schools/etonhouse/hero.jpg",
+  "tagline": "Inquiry-led learning inspired by Reggio Emilia across multiple campuses",
+  "description": "EtonHouse International School is one of Singapore's largest and most established international school groups, with multiple campuses across the island serving over 3,000 students. Headquartered on Broadrick Road, EtonHouse offers the full IB continuum (PYP, MYP, DP) alongside IGCSE options. The school is renowned for its Reggio Emilia-inspired early years programme, which views children as competent, curious learners who construct their own understanding through exploration. EtonHouse operates campuses at Broadrick Road, Orchard, Sentosa, Thomson, and other locations, each maintaining the group's inquiry-based educational philosophy while developing its own campus identity.",
+  "curriculum": ["IB PYP", "IB MYP", "IB DP", "IGCSE", "Reggio Emilia"], "region": "Central",
+  "address": "51 Broadrick Road, Singapore 439501", "nearestMRT": "Dakota MRT (CC8)",
+  "coordinates": { "lat": 1.3070, "lng": 103.8925 },
+  "feeRange": { "min": 28000, "max": 42000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Pre-Nursery – Nursery", "annualFee": 28000 },
+    { "grade": "Kindergarten 1-2", "annualFee": 31000 },
+    { "grade": "Grade 1-5 (IB PYP)", "annualFee": 34000 },
+    { "grade": "Grade 6-10 (IB MYP/IGCSE)", "annualFee": 38000 },
+    { "grade": "Grade 11-12 (IBDP)", "annualFee": 42000 }
+  ],
+  "admission": { "process": "EtonHouse accepts applications year-round with multiple entry points. Submit an online application, provide school reports, and attend a family meeting and child observation session.", "requirements": ["Online application", "School reports from previous years", "Passport copy", "Child observation and family meeting"], "deadlines": "Rolling admissions. Main intake in August. Apply at least 3 months before desired start date." },
+  "contact": { "phone": "+65 6346 6922", "email": "enquiry@etonhouse.edu.sg", "website": "https://www.etonhouse.edu.sg" },
+  "stats": { "founded": 1995, "studentCount": 3000, "teacherStudentRatio": "1:9", "averageClassSize": 20 },
+  "facilities": ["Reggio Emilia ateliers", "Library and media centres", "Science laboratories", "Indoor gymnasiums", "Outdoor discovery gardens", "Performing arts studios"],
+  "languages": ["English", "Mandarin", "Japanese", "Hindi"], "accreditation": ["EduTrust", "IB World School", "Cambridge International", "CIS"],
+  "faqs": [
+    { "question": "What is the Reggio Emilia approach at EtonHouse?", "answer": "EtonHouse's early years programme is inspired by the Reggio Emilia philosophy, where children learn through exploration and inquiry in thoughtfully designed environments. Teachers act as facilitators, documenting each child's learning journey." },
+    { "question": "How many campuses does EtonHouse have in Singapore?", "answer": "EtonHouse operates around 15 campuses and pre-schools across Singapore, including major campuses at Broadrick Road, Orchard, Thomson, and Sentosa." }
+  ],
+  "seo": { "title": "EtonHouse International School Singapore — IB PYP MYP DP, Reggio Emilia | EduAtlas", "description": "EtonHouse International School: full IB continuum plus Reggio Emilia early years across 15+ Singapore campuses. 3,000+ students. View 2026 fees, curriculum and admissions." },
+  "featured": false, "order": 28, "updatedAt": "2026-06-01"
+}

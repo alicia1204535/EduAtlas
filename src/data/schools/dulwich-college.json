@@ -1,0 +1,46 @@
+{
+  "id": "dulwich-college",
+  "name": "Dulwich College (Singapore)",
+  "slug": "dulwich-college",
+  "logo": "/images/schools/dulwich-college/logo.svg",
+  "heroImage": "/images/schools/dulwich-college/hero.jpg",
+  "tagline": "British independent school with a strong performing arts focus",
+  "description": "Dulwich College (Singapore) is part of the prestigious Dulwich College International family, with its founding school in London dating back to 1619. Located in Bukit Batok, the Singapore campus opened in 2014 and serves students from Toddler (age 2) through Year 13 (age 18). Dulwich follows a British-based international curriculum leading to IGCSEs and the IB Diploma, with a distinctive emphasis on performing arts and holistic education. The school's state-of-the-art facilities include a 750-seat theatre, black box studio, and dedicated visual arts studios.",
+  "curriculum": ["IGCSE", "IB DP"],
+  "region": "West",
+  "address": "71 Bukit Batok West Avenue 8, Singapore 658966",
+  "nearestMRT": "Bukit Batok MRT (NS2)",
+  "coordinates": { "lat": 1.3523, "lng": 103.7498 },
+  "feeRange": { "min": 30000, "max": 46000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Toddler", "annualFee": 30000, "termFee": 10000 },
+    { "grade": "Nursery – Reception", "annualFee": 34000, "termFee": 11333 },
+    { "grade": "Year 1 – Year 2", "annualFee": 36000, "termFee": 12000 },
+    { "grade": "Year 3 – Year 6", "annualFee": 38000, "termFee": 12667 },
+    { "grade": "Year 7 – Year 9", "annualFee": 42000, "termFee": 14000 },
+    { "grade": "Year 10 – Year 11", "annualFee": 44000, "termFee": 14667 },
+    { "grade": "Year 12 – Year 13", "annualFee": 46000, "termFee": 15333 }
+  ],
+  "admission": {
+    "process": "Rolling admissions. Families complete an online application, submit supporting documents, and attend an assessment and family interview. The school looks for students who will thrive in a bilingual, holistic environment.",
+    "requirements": ["Online application", "School reports", "Passport copy", "Application fee"],
+    "deadlines": "Rolling admissions year-round. Main intake is August. Recommended to apply 6-12 months in advance.",
+    "assessmentInfo": "Entrance assessments in English and Mathematics, plus a student and parent interview.",
+    "waitingList": false,
+    "priorityGroups": ["Siblings of enrolled students", "Children of Dulwich alumni"]
+  },
+  "contact": { "phone": "+65 6890 1000", "email": "admissions@dulwich-singapore.edu.sg", "website": "https://singapore.dulwich.org" },
+  "stats": { "founded": 2014, "studentCount": 2000, "teacherStudentRatio": "1:9", "averageClassSize": 20, "campusSize": "5 hectares" },
+  "facilities": ["750-seat theatre", "Black box studio", "Visual arts studios", "25m swimming pool", "Sports hall", "Library", "Innovation lab"],
+  "languages": ["English", "Mandarin", "French", "Spanish"],
+  "accreditation": ["EduTrust", "FOBISIA", "IB World School", "BSO"],
+  "faqs": [
+    { "question": "Is Dulwich College Singapore part of Dulwich College London?", "answer": "Yes, Dulwich College (Singapore) is part of the Dulwich College International family of schools. It maintains close ties with the founding school in London, which was established in 1619." },
+    { "question": "What is Dulwich known for?", "answer": "Dulwich is particularly known for its performing arts programme, with a 750-seat professional theatre on campus. It also has strong academics and a vibrant Mandarin programme." },
+    { "question": "Does Dulwich have a Mandarin programme?", "answer": "Yes, Dulwich offers daily Mandarin instruction for all students, with differentiated levels from beginner to native speaker." }
+  ],
+  "seo": { "title": "Dulwich College Singapore — Fees, IB & IGCSE Curriculum | EduAtlas", "description": "Dulwich College Singapore: British international school in Bukit Batok for ages 2-18. IGCSE & IB Diploma. View 2025/2026 fees, admission process and facilities." },
+  "featured": true,
+  "order": 5,
+  "updatedAt": "2026-06-01"
+}

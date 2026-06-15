@@ -1,0 +1,19 @@
+{
+  "id": "dover-court", "name": "Dover Court International School", "slug": "dover-court",
+  "logo": "/images/schools/dover-court/logo.svg", "heroImage": "/images/schools/dover-court/hero.jpg",
+  "tagline": "Inclusive British international school with strong learning support",
+  "description": "Dover Court International School is a British international school located in the west of Singapore. Part of the Nord Anglia Education group, Dover Court offers the English National Curriculum from Nursery through Year 9, IGCSEs, and the IB Diploma in Sixth Form. The school is known for its Pathways programme, which provides exceptional learning support for students with additional needs, making it one of the most inclusive international schools in Singapore.",
+  "curriculum": ["IGCSE", "IB DP"], "region": "West",
+  "address": "301 Dover Road, Singapore 139644", "nearestMRT": "Dover MRT (EW22)",
+  "coordinates": { "lat": 1.3046, "lng": 103.7774 },
+  "feeRange": { "min": 22000, "max": 37000, "currency": "SGD" },
+  "fees": [{ "grade": "Nursery", "annualFee": 22000 }, { "grade": "Reception – Year 2", "annualFee": 28000 }, { "grade": "Year 3-6", "annualFee": 32000 }, { "grade": "Year 7-9", "annualFee": 35000 }, { "grade": "Year 10-13", "annualFee": 37000 }],
+  "admission": { "process": "Applications reviewed holistically. The Pathways programme requires additional assessment for appropriate placement.", "requirements": ["Online application", "School reports", "Passport copy"], "deadlines": "Rolling admissions." },
+  "contact": { "phone": "+65 6775 7664", "email": "admissions@dovercourt.edu.sg", "website": "https://www.dovercourt.edu.sg" },
+  "stats": { "founded": 1972, "studentCount": 1500, "teacherStudentRatio": "1:10", "averageClassSize": 22 },
+  "facilities": ["Swimming pool", "Sports hall", "Library", "Performing Arts Centre", "Learning support hub"],
+  "languages": ["English", "Mandarin", "French"], "accreditation": ["EduTrust", "BSO", "FOBISIA"],
+  "faqs": [{ "question": "What is the Pathways programme?", "answer": "Dover Court's Pathways programme supports students with mild to moderate additional learning needs, providing specialised instruction alongside mainstream curriculum access — unique among Singapore international schools." }],
+  "seo": { "title": "Dover Court International School Singapore — British IB School | EduAtlas", "description": "Dover Court International School: Inclusive British school with Nord Anglia group. English National Curriculum, IGCSE & IB Diploma. View 2025/2026 fees and Pathways programme." },
+  "featured": false, "order": 16, "updatedAt": "2026-06-01"
+}

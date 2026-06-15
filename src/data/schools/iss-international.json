@@ -1,0 +1,27 @@
+{
+  "id": "iss-international", "name": "ISS International School", "slug": "iss-international",
+  "logo": "/images/schools/iss-international/logo.svg", "heroImage": "/images/schools/iss-international/hero.jpg",
+  "tagline": "One of Singapore's longest-established IB continuum schools",
+  "description": "ISS International School is one of Singapore's oldest international schools, founded in 1981. Located on Paterson Road in the Orchard area, ISS is authorised to offer all three IB programmes — the Primary Years Programme (PYP), Middle Years Programme (MYP), and Diploma Programme (DP). With approximately 500 students from over 40 nationalities, ISS provides an intimate, multicultural learning environment. The school emphasises a holistic education that balances academic rigour with personal growth and community engagement.",
+  "curriculum": ["IB PYP", "IB MYP", "IB DP"], "region": "Central",
+  "address": "21 Preston Road, Singapore 109355", "nearestMRT": "Orchard MRT (NS22/TE14)",
+  "coordinates": { "lat": 1.3019, "lng": 103.8274 },
+  "feeRange": { "min": 26000, "max": 36000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Kindergarten 1-2", "annualFee": 26000 },
+    { "grade": "Grade 1-5 (PYP)", "annualFee": 29000 },
+    { "grade": "Grade 6-10 (MYP)", "annualFee": 33000 },
+    { "grade": "Grade 11-12 (IBDP)", "annualFee": 36000 }
+  ],
+  "admission": { "process": "ISS welcomes applications year-round. Submit an online application, supporting documents, and attend a placement assessment and interview.", "requirements": ["Completed application form", "School reports from previous 2 years", "Passport copy", "Application fee of SGD 500"], "deadlines": "Rolling admissions. Main intake in August." },
+  "contact": { "phone": "+65 6475 4188", "email": "admissions@iss.edu.sg", "website": "https://www.iss.edu.sg" },
+  "stats": { "founded": 1981, "studentCount": 500, "teacherStudentRatio": "1:6", "averageClassSize": 16 },
+  "facilities": ["Library", "Science laboratories", "Art studios", "Music rooms", "Multi-purpose hall", "Outdoor learning spaces"],
+  "languages": ["English", "Mandarin", "French", "Japanese"], "accreditation": ["EduTrust", "IB World School", "WASC", "CIS"],
+  "faqs": [
+    { "question": "Does ISS offer all three IB programmes?", "answer": "Yes, ISS is one of the few schools in Singapore authorised to offer the full IB continuum: PYP, MYP, and DP from Kindergarten through Grade 12." },
+    { "question": "What is the student nationality mix at ISS?", "answer": "ISS has students from over 40 nationalities, with no single nationality dominating. This creates a truly international learning environment." }
+  ],
+  "seo": { "title": "ISS International School Singapore — Full IB Continuum PYP MYP DP | EduAtlas", "description": "ISS International School: one of Singapore's oldest IB schools since 1981. Full PYP, MYP, DP continuum near Orchard. View 2026 fees, admissions, and curriculum details." },
+  "featured": false, "order": 19, "updatedAt": "2026-06-01"
+}

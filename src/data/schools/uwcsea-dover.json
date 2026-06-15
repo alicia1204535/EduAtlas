@@ -1,0 +1,60 @@
+{
+  "id": "uwcsea-dover",
+  "name": "UWC South East Asia (Dover)",
+  "slug": "uwcsea-dover",
+  "logo": "/images/schools/uwcsea/logo.svg",
+  "heroImage": "/images/schools/uwcsea/dover-hero.jpg",
+  "tagline": "A mission-driven K-12 international school offering the IB continuum",
+  "description": "UWC South East Asia (UWCSEA) is one of the most respected international schools in Singapore. The Dover Campus, established in 1971, was the first UWC campus in Asia. UWCSEA offers the full IB continuum (PYP, MYP, DP) alongside its own concept-based curriculum in earlier grades. With over 5,600 students across its two campuses, UWCSEA is known for academic excellence, a strong service-learning ethos, and world-class facilities. The Dover Campus serves students from Kindergarten 1 through Grade 12 on an expansive campus near the National University of Singapore.",
+  "curriculum": ["IB PYP", "IB MYP", "IB DP", "IGCSE"],
+  "region": "Central",
+  "address": "1207 Dover Road, Singapore 139654",
+  "nearestMRT": "Dover MRT (EW22)",
+  "coordinates": { "lat": 1.3043, "lng": 103.7783 },
+  "feeRange": { "min": 34000, "max": 48000, "currency": "SGD" },
+  "fees": [
+    { "grade": "K1", "annualFee": 34000, "termFee": 11333 },
+    { "grade": "K2 – Grade 1", "annualFee": 36000, "termFee": 12000 },
+    { "grade": "Grade 2 – Grade 5", "annualFee": 38000, "termFee": 12667 },
+    { "grade": "Grade 6 – Grade 8", "annualFee": 42000, "termFee": 14000 },
+    { "grade": "Grade 9 – Grade 10", "annualFee": 45000, "termFee": 15000 },
+    { "grade": "Grade 11 – Grade 12", "annualFee": 48000, "termFee": 16000 }
+  ],
+  "admission": {
+    "process": "UWCSEA has a holistic admissions process. Applications are submitted online with school reports, a student statement, and confidential references. Selected candidates are invited for an assessment and interview.",
+    "requirements": ["Completed online application", "School reports (last 2 years)", "Student personal statement", "Confidential teacher reference", "English language assessment (if applicable)"],
+    "deadlines": "Applications open one year in advance. Main intake is in August; limited January intake for K1-G8.",
+    "assessmentInfo": "Age-appropriate assessments in English and Mathematics, plus an individual or group interview. Boarding available from Grade 8.",
+    "waitingList": true,
+    "priorityGroups": ["Siblings of enrolled students", "Children of alumni", "UWC national committee nominees"]
+  },
+  "contact": {
+    "phone": "+65 6775 5344",
+    "email": "admissions.dover@uwcsea.edu.sg",
+    "website": "https://www.uwcsea.edu.sg"
+  },
+  "stats": {
+    "founded": 1971,
+    "studentCount": 3000,
+    "teacherStudentRatio": "1:10",
+    "averageClassSize": 24,
+    "campusSize": "11 hectares"
+  },
+  "facilities": ["Olympic-size swimming pool", "Sports complex", "Performing Arts Centre", "Design & Technology labs", "Libraries", "Climbing wall", "Outdoor education centre"],
+  "languages": ["English", "Mandarin", "French", "Spanish", "Japanese", "Korean"],
+  "accreditation": ["EduTrust", "CIS", "WASC", "IB World School"],
+  "faqs": [
+    { "question": "What makes UWCSEA unique?", "answer": "UWCSEA combines academic rigor with a mission-driven approach to education. Its emphasis on service learning, outdoor education, and the UWC movement's values of peace and sustainability sets it apart from other international schools." },
+    { "question": "Is there a waiting list at UWCSEA Dover?", "answer": "Yes, most grade levels have waitlists. Priority is given to siblings, children of alumni, and UWC national committee nominees. Apply 12-18 months in advance for the best chance of placement." },
+    { "question": "Does UWCSEA offer boarding?", "answer": "Yes, the Dover Campus has boarding facilities for students from Grade 8 to Grade 12. Boarders come from over 80 countries, creating a vibrant residential community." },
+    { "question": "What curriculum does UWCSEA use?", "answer": "UWCSEA follows a concept-based curriculum developed in-house for K1-G8, culminating in the IGCSE (Grades 9-10) and IB Diploma (Grades 11-12)." },
+    { "question": "How much are the school fees at UWCSEA Dover?", "answer": "Annual fees for academic year 2025/2026 range from approximately SGD 34,000 (K1) to SGD 48,000 (Grade 11-12), excluding application, enrolment, and activity fees." }
+  ],
+  "seo": {
+    "title": "UWCSEA Dover — Fees, Curriculum & Admission | EduAtlas",
+    "description": "UWC South East Asia Dover Campus: IB World School in Singapore for ages 4-18. View 2025/2026 fees, admission process, curriculum (IB PYP, MYP, DP, IGCSE) and facilities."
+  },
+  "featured": true,
+  "order": 1,
+  "updatedAt": "2026-06-01"
+}

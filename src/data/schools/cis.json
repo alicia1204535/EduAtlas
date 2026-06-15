@@ -1,0 +1,44 @@
+{
+  "id": "cis",
+  "name": "Canadian International School",
+  "slug": "cis",
+  "logo": "/images/schools/cis/logo.svg",
+  "heroImage": "/images/schools/cis/hero.jpg",
+  "tagline": "Dual-campus international school offering all three IB programmes",
+  "description": "Canadian International School (CIS) operates two campuses in Singapore: the Lakeside Campus in the west (Kindergarten to Grade 12) and the Tanjong Katong Campus in the east (Kindergarten to Grade 6). CIS is an IB World School offering the full IB continuum — PYP, MYP, and DP. The school is known for its strong bilingual programme (English-Chinese and English-French), cutting-edge STEAM facilities, and a welcoming, inclusive community. CIS was founded in 1990 and serves over 3,000 students from 80+ nationalities.",
+  "curriculum": ["IB PYP", "IB MYP", "IB DP"],
+  "region": "West",
+  "address": "7 Jurong West Street 41, Singapore 649414",
+  "nearestMRT": "Lakeside MRT (EW26)",
+  "coordinates": { "lat": 1.3397, "lng": 103.7219 },
+  "feeRange": { "min": 25000, "max": 42000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Pre-Kindergarten", "annualFee": 25000 },
+    { "grade": "Kindergarten", "annualFee": 31000 },
+    { "grade": "Grade 1 – Grade 3", "annualFee": 35000 },
+    { "grade": "Grade 4 – Grade 6", "annualFee": 37000 },
+    { "grade": "Grade 7 – Grade 9", "annualFee": 39000 },
+    { "grade": "Grade 10 – Grade 12", "annualFee": 42000 }
+  ],
+  "admission": {
+    "process": "CIS has a rolling admissions policy. Applications are reviewed on a case-by-case basis, considering academic readiness, English language proficiency, and alignment with CIS values.",
+    "requirements": ["Online application", "School reports", "Passport copy", "Application fee"],
+    "deadlines": "Rolling admissions. Main intake in August; mid-year entry possible depending on availability.",
+    "assessmentInfo": "Students may be required to complete an English language assessment. EAL (English as an Additional Language) support is available.",
+    "waitingList": false
+  },
+  "contact": { "phone": "+65 6734 8088", "email": "admissions@cis.edu.sg", "website": "https://www.cis.edu.sg" },
+  "stats": { "founded": 1990, "studentCount": 3000, "teacherStudentRatio": "1:10", "averageClassSize": 22, "campusSize": "Two campuses" },
+  "facilities": ["STEAM Makerspace", "Outdoor Discovery Centre", "Swimming pools", "Sports complex", "Performing Arts Theatre", "Libraries", "Indoor climbing wall"],
+  "languages": ["English", "Mandarin", "French", "Spanish"],
+  "accreditation": ["EduTrust", "IB World School", "CIS"],
+  "faqs": [
+    { "question": "What bilingual programmes does CIS offer?", "answer": "CIS offers bilingual programmes in English-Chinese and English-French at the primary level. Students spend half their day learning in each language." },
+    { "question": "Where are the CIS campuses located?", "answer": "CIS has two campuses: Lakeside Campus (Jurong West) for K-12 and Tanjong Katong Campus (East) for K-Grade 6." },
+    { "question": "Is CIS only for Canadian students?", "answer": "No, CIS is an international school welcoming students from over 80 nationalities. The Canadian name reflects the school's origins but it is not exclusively for Canadians." }
+  ],
+  "seo": { "title": "Canadian International School Singapore — IB School Fees & Curriculum | EduAtlas", "description": "Canadian International School (CIS) Singapore: Full IB continuum (PYP, MYP, DP). Two campuses, bilingual programmes. View 2025/2026 fees and admission details." },
+  "featured": true,
+  "order": 6,
+  "updatedAt": "2026-06-01"
+}

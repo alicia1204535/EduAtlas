@@ -1,0 +1,27 @@
+{
+  "id": "integrated-international", "name": "Integrated International School", "slug": "integrated-international",
+  "logo": "/images/schools/integrated-international/logo.svg", "heroImage": "/images/schools/integrated-international/hero.jpg",
+  "tagline": "An inclusive boutique school championing neurodivergent learners",
+  "description": "Integrated International School (IIS) is a unique boutique school in Clementi that specialises in supporting students with learning differences, including ADHD, autism spectrum, dyslexia, and anxiety. With approximately 100 students, IIS offers an Australian curriculum in small class sizes of typically 4-8 students, ensuring highly individualised attention. The school provides a mainstream academic programme alongside integrated therapy and learning support services, including speech therapy, occupational therapy, and counselling, all delivered within the school day. IIS is one of the few international schools in Singapore specifically designed for inclusive education.",
+  "curriculum": ["Australian"], "region": "West",
+  "address": "71 Clementi Road, Singapore 129790", "nearestMRT": "Clementi MRT (EW23)",
+  "coordinates": { "lat": 1.3292, "lng": 103.7710 },
+  "feeRange": { "min": 35000, "max": 45000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Early Years", "annualFee": 35000 },
+    { "grade": "Primary (Grade 1-6)", "annualFee": 39000 },
+    { "grade": "Secondary (Grade 7-10)", "annualFee": 42000 },
+    { "grade": "Senior Secondary (Grade 11-12)", "annualFee": 45000 }
+  ],
+  "admission": { "process": "IIS takes a personalised admissions approach. Families meet with the school team to discuss the child's needs, review previous assessments and reports, and develop a tailored support plan before enrolment.", "requirements": ["Online enquiry", "Educational or psychological assessments (if available)", "School reports", "Family meeting with support team"], "deadlines": "Rolling admissions with flexible start dates throughout the year." },
+  "contact": { "phone": "+65 6466 9663", "email": "info@iis.edu.sg", "website": "https://www.iis.edu.sg" },
+  "stats": { "founded": 2009, "studentCount": 100, "teacherStudentRatio": "1:4", "averageClassSize": 6 },
+  "facilities": ["Sensory room", "Therapy suites", "Art and music therapy rooms", "Small-group classrooms", "Outdoor playground", "Life skills kitchen"],
+  "languages": ["English", "Mandarin"], "accreditation": ["EduTrust", "Australian Curriculum (ACARA)"],
+  "faqs": [
+    { "question": "What makes IIS different from other international schools?", "answer": "IIS is specifically designed for inclusive education, offering integrated therapy services and very small class sizes (4-8 students) to support neurodivergent learners alongside mainstream students." },
+    { "question": "Do students at IIS sit for standardised exams?", "answer": "Yes. IIS follows the Australian curriculum and students can sit for standardised assessments appropriate to their level. The school provides accommodations and individualised support during exams." }
+  ],
+  "seo": { "title": "Integrated International School Singapore — Inclusive Education, Australian Curriculum | EduAtlas", "description": "Integrated International School in Clementi: boutique inclusive school for neurodivergent learners. Australian curriculum, 1:4 ratio, integrated therapy. View 2026 fees and approach." },
+  "featured": false, "order": 29, "updatedAt": "2026-06-01"
+}

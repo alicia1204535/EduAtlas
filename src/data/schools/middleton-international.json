@@ -1,0 +1,28 @@
+{
+  "id": "middleton-international", "name": "Middleton International School", "slug": "middleton-international",
+  "logo": "/images/schools/middleton-international/logo.svg", "heroImage": "/images/schools/middleton-international/hero.jpg",
+  "tagline": "An affordable, high-quality international education in the heartlands",
+  "description": "Middleton International School is part of the EtonHouse International Education Group, offering a more affordable international school option for families. Located in Tampines, Middleton serves approximately 800 students from Nursery through Grade 12. The curriculum follows the International Primary Curriculum (IPC) in primary years, progressing to Cambridge IGCSE and A-Levels at the secondary level. Middleton is known for its strong Mandarin programme and inquiry-based learning approach, making international education accessible to a broader range of families.",
+  "curriculum": ["IPC", "IGCSE", "A-Levels"], "region": "East",
+  "address": "2 Tampines Street 92, Singapore 528889", "nearestMRT": "Tampines MRT (EW2/DT32)",
+  "coordinates": { "lat": 1.3549, "lng": 103.9438 },
+  "feeRange": { "min": 18000, "max": 28000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Nursery – Kindergarten", "annualFee": 18000 },
+    { "grade": "Grade 1-5 (IPC)", "annualFee": 21000 },
+    { "grade": "Grade 6-8", "annualFee": 24000 },
+    { "grade": "Grade 9-10 (IGCSE)", "annualFee": 26000 },
+    { "grade": "Grade 11-12 (A-Levels)", "annualFee": 28000 }
+  ],
+  "admission": { "process": "Middleton has a straightforward admissions process. Complete the online application, submit documents, and the school will invite the child for a brief classroom observation.", "requirements": ["Online application", "School reports", "Passport copy", "Application fee"], "deadlines": "Rolling admissions with multiple entry points throughout the year." },
+  "contact": { "phone": "+65 6235 1511", "email": "admissions@middleton.edu.sg", "website": "https://www.middleton.edu.sg" },
+  "stats": { "founded": 2017, "studentCount": 800, "teacherStudentRatio": "1:11", "averageClassSize": 22 },
+  "facilities": ["Library", "Science lab", "Art and music studios", "Multi-purpose hall", "Outdoor playground", "Sports field"],
+  "languages": ["English", "Mandarin"], "accreditation": ["EduTrust", "Cambridge International"],
+  "faqs": [
+    { "question": "Is Middleton a budget-friendly international school?", "answer": "Yes, Middleton is designed as an affordable international school option. Its fees are significantly lower than many other international schools while maintaining quality education standards." },
+    { "question": "What is the relationship between Middleton and EtonHouse?", "answer": "Middleton International School is part of the EtonHouse International Education Group, sharing the same educational philosophy and quality standards but at a more accessible fee point." }
+  ],
+  "seo": { "title": "Middleton International School Singapore — Affordable IPC, IGCSE & A-Levels | EduAtlas", "description": "Middleton International School in Tampines: affordable international education, part of EtonHouse. IPC, IGCSE and A-Levels from Nursery to Grade 12. View 2026 fees." },
+  "featured": false, "order": 24, "updatedAt": "2026-06-01"
+}

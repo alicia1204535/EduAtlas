@@ -1,0 +1,33 @@
+{
+  "id": "stamford-american",
+  "name": "Stamford American International School (SAIS)",
+  "slug": "stamford-american",
+  "logo": "/images/schools/stamford-american/logo.svg",
+  "heroImage": "/images/schools/stamford-american/hero.jpg",
+  "tagline": "American curriculum school with state-of-the-art Woodleigh campus",
+  "description": "Stamford American International School (SAIS) offers an American standards-based curriculum from 18 months through Grade 12, culminating in the IB Diploma or Advanced Placement (AP) courses. Its award-winning campus in Woodleigh, opened in 2018, features cutting-edge facilities including an innovation center, performing arts theatres, and two swimming pools. SAIS is part of the Cognita global schools group and serves over 2,700 students from 75+ nationalities.",
+  "curriculum": ["AP", "IB DP"],
+  "region": "North-East",
+  "address": "1 Woodleigh Lane, Singapore 357684",
+  "nearestMRT": "Woodleigh MRT (NE11)",
+  "coordinates": { "lat": 1.3386, "lng": 103.8685 },
+  "feeRange": { "min": 22000, "max": 43000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Pre-Nursery – Nursery", "annualFee": 22000 },
+    { "grade": "Kindergarten – Grade 5", "annualFee": 34000 },
+    { "grade": "Grade 6 – Grade 8", "annualFee": 38000 },
+    { "grade": "Grade 9 – Grade 12", "annualFee": 43000 }
+  ],
+  "admission": { "process": "Rolling admissions with year-round intake.", "requirements": ["Online application", "School reports", "Passport copy"], "deadlines": "Rolling admissions." },
+  "contact": { "phone": "+65 6602 7247", "email": "admissions@sais.edu.sg", "website": "https://www.sais.edu.sg" },
+  "stats": { "founded": 2009, "studentCount": 2700, "teacherStudentRatio": "1:10", "averageClassSize": 22, "campusSize": "Award-winning Woodleigh campus" },
+  "facilities": ["Innovation Centre", "2 Swimming pools", "Performing Arts Theatres", "Sports Complex", "Library", "Design & Technology Labs"],
+  "languages": ["English", "Mandarin", "Spanish"],
+  "accreditation": ["EduTrust", "WASC", "IB World School"],
+  "faqs": [
+    { "question": "What curriculum does Stamford offer?", "answer": "SAIS offers an American standards-based curriculum leading to AP courses and/or the IB Diploma in Grades 11-12. Students can choose either or both pathways." },
+    { "question": "Where is Stamford located?", "answer": "SAIS is on Woodleigh Lane, near Woodleigh MRT (North-East Line), in a purpose-built campus that opened in 2018." }
+  ],
+  "seo": { "title": "Stamford American International School Singapore — Fees & Curriculum | EduAtlas", "description": "Stamford American International School (SAIS): American curriculum + IB DP & AP at Woodleigh campus. View 2025/2026 fees, admission and facilities." },
+  "featured": false, "order": 13, "updatedAt": "2026-06-01"
+}

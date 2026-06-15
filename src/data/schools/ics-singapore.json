@@ -1,0 +1,19 @@
+{
+  "id": "ics-singapore", "name": "International Community School (ICS) Singapore", "slug": "ics-singapore",
+  "logo": "/images/schools/ics-singapore/logo.svg", "heroImage": "/images/schools/ics-singapore/hero.jpg",
+  "tagline": "American Christian education in the heart of Singapore",
+  "description": "International Community School (ICS) is an American Christian international school located in the Clementi area. ICS offers a US-based curriculum from Kindergarten through Grade 12 with a biblical worldview integrated across subjects. The school provides AP courses at the high school level and is accredited by ACSI and WASC. With under 400 students, ICS provides a close-knit, faith-based learning environment.",
+  "curriculum": ["AP"], "region": "West",
+  "address": "27A Jubilee Road, Singapore 128575", "nearestMRT": "Clementi MRT (EW23)",
+  "coordinates": { "lat": 1.3333, "lng": 103.7609 },
+  "feeRange": { "min": 18000, "max": 28000, "currency": "SGD" },
+  "fees": [{ "grade": "Kindergarten", "annualFee": 18000 }, { "grade": "Grade 1-5", "annualFee": 22000 }, { "grade": "Grade 6-8", "annualFee": 25000 }, { "grade": "Grade 9-12", "annualFee": 28000 }],
+  "admission": { "process": "ICS seeks families who align with its Christian mission. Applications include a family interview and pastor reference.", "requirements": ["Online application", "School reports", "Pastor/Church reference", "Family interview"], "deadlines": "Rolling admissions." },
+  "contact": { "phone": "+65 6776 7435", "email": "admissions@ics.edu.sg", "website": "https://www.ics.edu.sg" },
+  "stats": { "founded": 1993, "studentCount": 350, "teacherStudentRatio": "1:8", "averageClassSize": 15 },
+  "facilities": ["Library", "Science labs", "Art room", "Music room", "Outdoor playground", "Basketball court"],
+  "languages": ["English", "Mandarin"], "accreditation": ["ACSI", "WASC", "EduTrust"],
+  "faqs": [{ "question": "Is ICS only for Christian families?", "answer": "ICS is a Christian school that welcomes families of all faiths who are supportive of a Christian educational environment. At least one parent must profess the Christian faith." }],
+  "seo": { "title": "ICS Singapore — American Christian International School | EduAtlas", "description": "International Community School Singapore: American Christian education for K-12. AP courses, small class sizes. View 2025/2026 fees and admission requirements." },
+  "featured": false, "order": 17, "updatedAt": "2026-06-01"
+}

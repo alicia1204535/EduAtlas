@@ -1,0 +1,28 @@
+{
+  "id": "one-world-international", "name": "One World International School (OWIS)", "slug": "one-world-international",
+  "logo": "/images/schools/one-world-international/logo.svg", "heroImage": "/images/schools/one-world-international/hero.jpg",
+  "tagline": "Globally minded, moderately priced education across multiple campuses",
+  "description": "One World International School (OWIS) is a non-denominational international school offering an affordable, high-quality education across three campuses in Singapore: Nanyang (main), Punggol, and Suntec. Serving approximately 2,000 students from over 70 nationalities, OWIS offers the IB PYP in primary years, Cambridge IGCSE at the secondary level, and the IB Diploma Programme for pre-university students. OWIS is known for its warm, inclusive culture, small class sizes, and emphasis on kindness and community values. The school maintains a nationality cap to ensure a truly diverse student body.",
+  "curriculum": ["IB PYP", "IGCSE", "IB DP"], "region": "West",
+  "address": "21 Jurong West Street 81, Singapore 649075", "nearestMRT": "Pioneer MRT (EW28)",
+  "coordinates": { "lat": 1.3404, "lng": 103.6933 },
+  "feeRange": { "min": 18000, "max": 26000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Early Childhood 1-3", "annualFee": 18000 },
+    { "grade": "Grade 1-5 (IB PYP)", "annualFee": 20500 },
+    { "grade": "Grade 6-8", "annualFee": 22500 },
+    { "grade": "Grade 9-10 (IGCSE)", "annualFee": 24500 },
+    { "grade": "Grade 11-12 (IBDP)", "annualFee": 26000 }
+  ],
+  "admission": { "process": "OWIS accepts applications year-round. Submit an online application with supporting documents. Students are assessed for grade-level readiness through an age-appropriate placement test.", "requirements": ["Online application", "School reports", "Passport copy", "Placement assessment"], "deadlines": "Rolling admissions. Main intake in August." },
+  "contact": { "phone": "+65 6914 6700", "email": "admissions@owis.org", "website": "https://www.owis.org" },
+  "stats": { "founded": 2008, "studentCount": 2000, "teacherStudentRatio": "1:10", "averageClassSize": 20 },
+  "facilities": ["Library", "Science laboratories", "Art and design studios", "Sports field and courts", "Indoor multi-purpose hall", "Outdoor discovery zones"],
+  "languages": ["English", "Mandarin", "Hindi", "Japanese"], "accreditation": ["EduTrust", "IB World School", "Cambridge International"],
+  "faqs": [
+    { "question": "Does OWIS have a nationality cap?", "answer": "Yes, OWIS maintains a cap where no single nationality exceeds approximately 30% of the student body, ensuring a genuinely multicultural environment." },
+    { "question": "Which OWIS campus offers the IB Diploma?", "answer": "The IB Diploma Programme is offered at the Nanyang campus, which is OWIS's largest and most established campus in Singapore." }
+  ],
+  "seo": { "title": "One World International School (OWIS) Singapore — IB PYP, IGCSE & IBDP | EduAtlas", "description": "OWIS Singapore: affordable international school with 3 campuses. IB PYP, Cambridge IGCSE, and IBDP for ages 3-18. 2,000 students, 70+ nationalities. View 2026 fees." },
+  "featured": false, "order": 25, "updatedAt": "2026-06-01"
+}

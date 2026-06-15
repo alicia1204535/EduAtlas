@@ -1,0 +1,44 @@
+{
+  "id": "nexus",
+  "name": "Nexus International School (Singapore)",
+  "slug": "nexus",
+  "logo": "/images/schools/nexus/logo.svg",
+  "heroImage": "/images/schools/nexus/hero.jpg",
+  "tagline": "Innovative IB World School with Apple Distinguished School status",
+  "description": "Nexus International School (Singapore) is an innovative IB World School offering the full IB continuum (PYP, MYP, DP) for learners aged 3 to 18. The school moved to its purpose-built Aljunied campus in 2020, featuring flexible learning spaces designed to foster creativity and collaboration. Nexus is an Apple Distinguished School, integrating technology meaningfully across the curriculum. With a strong focus on personalised, inquiry-based learning, Nexus is known for smaller class sizes and a nurturing community that values each child's individual learning journey.",
+  "curriculum": ["IB PYP", "IB MYP", "IB DP"],
+  "region": "Central",
+  "address": "1 Aljunied Walk, Singapore 387293",
+  "nearestMRT": "Aljunied MRT (EW9)",
+  "coordinates": { "lat": 1.3189, "lng": 103.8867 },
+  "feeRange": { "min": 24000, "max": 38000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Nursery", "annualFee": 24000, "termFee": 8000 },
+    { "grade": "Kindergarten", "annualFee": 28000, "termFee": 9333 },
+    { "grade": "Grade 1 – Grade 2", "annualFee": 30000, "termFee": 10000 },
+    { "grade": "Grade 3 – Grade 5", "annualFee": 32000, "termFee": 10667 },
+    { "grade": "Grade 6 – Grade 8", "annualFee": 35000, "termFee": 11667 },
+    { "grade": "Grade 9 – Grade 10", "annualFee": 36500, "termFee": 12167 },
+    { "grade": "Grade 11 – Grade 12", "annualFee": 38000, "termFee": 12667 }
+  ],
+  "admission": {
+    "process": "Nexus welcomes applications year-round. The school looks for learners who will benefit from its inquiry-based approach and contribute positively to the community.",
+    "requirements": ["Online application", "School reports", "Passport copy", "Application fee"],
+    "deadlines": "Rolling admissions. A non-refundable application fee of SGD 864 applies.",
+    "assessmentInfo": "Age-appropriate assessments and a family interview. EAL support available for students needing English language development.",
+    "waitingList": false
+  },
+  "contact": { "phone": "+65 6536 6566", "email": "admissions@nexus.edu.sg", "website": "https://www.nexus.edu.sg" },
+  "stats": { "founded": 2011, "studentCount": 1200, "teacherStudentRatio": "1:8", "averageClassSize": 18, "campusSize": "Purpose-built (2020)" },
+  "facilities": ["Flexible learning pods", "Innovation Centre", "Performing Arts Studio", "Sports Hall", "Aquatic Centre", "Maker Space", "Library"],
+  "languages": ["English", "Mandarin", "French", "Malay"],
+  "accreditation": ["EduTrust", "IB World School", "Apple Distinguished School"],
+  "faqs": [
+    { "question": "What makes Nexus unique?", "answer": "Nexus is an Apple Distinguished School with a strong technology integration philosophy. Its purpose-built campus (opened 2020) features flexible, open learning spaces rather than traditional classrooms. Small class sizes (avg. 18) ensure personalised attention." },
+    { "question": "Is Nexus a new school?", "answer": "Nexus was founded in 2011 but moved to its current purpose-built Aljunied campus in 2020. The school has a strong track record of IB results and university placements." }
+  ],
+  "seo": { "title": "Nexus International School Singapore — Fees & IB Curriculum | EduAtlas", "description": "Nexus International School: Apple Distinguished IB World School in Singapore for ages 3-18. View 2025/2026 fees, IB programmes (PYP, MYP, DP) and admission." },
+  "featured": false,
+  "order": 7,
+  "updatedAt": "2026-06-01"
+}

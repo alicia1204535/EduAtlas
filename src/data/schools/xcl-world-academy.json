@@ -1,0 +1,42 @@
+{
+  "id": "xcl-world-academy",
+  "name": "XCL World Academy",
+  "slug": "xcl-world-academy",
+  "logo": "/images/schools/xcl-world-academy/logo.svg",
+  "heroImage": "/images/schools/xcl-world-academy/hero.jpg",
+  "tagline": "Future-focused IB education preparing students for tomorrow",
+  "description": "XCL World Academy (formerly GEMS World Academy Singapore) offers the full IB continuum from Nursery through Grade 12. Located in Yishun in the north of Singapore, XCL sits on a purpose-built campus with state-of-the-art facilities including an innovation hub, recording studios, and an esports arena. The school emphasizes future-ready skills — critical thinking, collaboration, and adaptability — alongside strong academics. XCL is the only international school in Singapore to offer all four IB programmes: PYP, MYP, DP, and the IB Career-related Programme (CP).",
+  "curriculum": ["IB PYP", "IB MYP", "IB DP"],
+  "region": "North",
+  "address": "2 Yishun Street 42, Singapore 768039",
+  "nearestMRT": "Canberra MRT (NS12)",
+  "coordinates": { "lat": 1.4436, "lng": 103.8306 },
+  "feeRange": { "min": 22000, "max": 39000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Nursery", "annualFee": 22000 },
+    { "grade": "Kindergarten", "annualFee": 27000 },
+    { "grade": "Grade 1 – Grade 5", "annualFee": 31000 },
+    { "grade": "Grade 6 – Grade 10", "annualFee": 35000 },
+    { "grade": "Grade 11 – Grade 12", "annualFee": 39000 }
+  ],
+  "admission": {
+    "process": "XCL accepts applications year-round. After submitting an online application, families are invited for a campus tour and student assessment.",
+    "requirements": ["Online application", "School reports", "Passport copy"],
+    "deadlines": "Rolling admissions throughout the year with flexible start dates.",
+    "assessmentInfo": "Age-appropriate placement assessments. EAL support available for non-native English speakers.",
+    "waitingList": false
+  },
+  "contact": { "phone": "+65 6230 4200", "email": "admissions@xcl.edu.sg", "website": "https://www.xclworldacademy.com" },
+  "stats": { "founded": 2014, "studentCount": 1000, "teacherStudentRatio": "1:8", "averageClassSize": 18, "campusSize": "5 acres" },
+  "facilities": ["Innovation Hub", "Esports Arena", "Recording Studio", "Swimming Pool", "Sports Hall", "Library", "Maker Space"],
+  "languages": ["English", "Mandarin", "French", "Spanish"],
+  "accreditation": ["EduTrust", "IB World School"],
+  "faqs": [
+    { "question": "What IB programmes does XCL offer?", "answer": "XCL is the only school in Singapore offering all four IB programmes: PYP, MYP, DP, and the Career-related Programme (CP), providing multiple pathways for students." },
+    { "question": "What is XCL's approach to education?", "answer": "XCL emphasizes future-focused learning — developing skills like critical thinking, creativity, and adaptability alongside traditional academics. The curriculum is inquiry-based with technology integration." }
+  ],
+  "seo": { "title": "XCL World Academy — IB School Singapore Fees & Curriculum | EduAtlas", "description": "XCL World Academy (formerly GEMS): Full IB continuum school in Yishun, Singapore. All 4 IB programmes offered. View 2025/2026 fees and admission details." },
+  "featured": false,
+  "order": 8,
+  "updatedAt": "2026-06-01"
+}

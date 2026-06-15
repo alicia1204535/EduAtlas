@@ -1,0 +1,40 @@
+{
+  "id": "australian-international",
+  "name": "Australian International School (AIS)",
+  "slug": "australian-international",
+  "logo": "/images/schools/australian-international/logo.svg",
+  "heroImage": "/images/schools/australian-international/hero.jpg",
+  "tagline": "Australia's curriculum in Singapore, from Infant to Year 12",
+  "description": "Australian International School (AIS) is the only school in Singapore offering an Australian curriculum, from Infant care (2 months) through Year 12. The school follows the Australian HSC (Higher School Certificate) in senior years, alongside the option of the IB Diploma. Located on a spacious campus in Lorong Chuan, AIS serves a diverse community of over 2,500 students from 50+ nationalities. The school is known for its strong early years programme, inclusive ethos, and extensive sporting facilities.",
+  "curriculum": ["Australian", "IB DP"],
+  "region": "Central",
+  "address": "1 Lorong Chuan, Singapore 556818",
+  "nearestMRT": "Lorong Chuan MRT (CC14)",
+  "coordinates": { "lat": 1.3516, "lng": 103.8622 },
+  "feeRange": { "min": 18000, "max": 42000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Infant Care", "annualFee": 18000 },
+    { "grade": "Preschool", "annualFee": 25000 },
+    { "grade": "Prep – Year 5", "annualFee": 32000 },
+    { "grade": "Year 6 – Year 9", "annualFee": 37000 },
+    { "grade": "Year 10 – Year 12", "annualFee": 42000 }
+  ],
+  "admission": {
+    "process": "AIS accepts applications year-round with rolling admissions. Priority is given to Australian and New Zealand citizens.",
+    "requirements": ["Online application", "School reports", "Passport copy"],
+    "deadlines": "Rolling admissions. Main intake in January (Australian school year)."
+  },
+  "contact": { "phone": "+65 6653 2958", "email": "admissions@ais.com.sg", "website": "https://www.ais.com.sg" },
+  "stats": { "founded": 1993, "studentCount": 2500, "teacherStudentRatio": "1:10", "averageClassSize": 22, "campusSize": "5 hectares" },
+  "facilities": ["Swimming pool", "Sports complex", "Performing Arts Centre", "Library", "Outdoor learning spaces", "Early Years village"],
+  "languages": ["English", "Mandarin", "French", "Japanese"],
+  "accreditation": ["EduTrust", "NSW Education Standards Authority", "IB World School"],
+  "faqs": [
+    { "question": "What curriculum does AIS follow?", "answer": "AIS follows the Australian curriculum leading to the NSW Higher School Certificate (HSC). Students in Years 11-12 can also choose the IB Diploma Programme." },
+    { "question": "Is AIS only for Australian students?", "answer": "No, while AIS follows the Australian curriculum and calendar (January-December), it welcomes students of all nationalities. Over 50 nationalities are represented." }
+  ],
+  "seo": { "title": "Australian International School Singapore — Fees & Australian Curriculum | EduAtlas", "description": "AIS Singapore: Only Australian curriculum school in Singapore for ages 2 months-18 years. HSC & IB Diploma options. View 2025/2026 fees, admission and facilities." },
+  "featured": false,
+  "order": 12,
+  "updatedAt": "2026-06-01"
+}

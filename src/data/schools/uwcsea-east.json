@@ -1,0 +1,59 @@
+{
+  "id": "uwcsea-east",
+  "name": "UWC South East Asia (East)",
+  "slug": "uwcsea-east",
+  "logo": "/images/schools/uwcsea/logo.svg",
+  "heroImage": "/images/schools/uwcsea/east-hero.jpg",
+  "tagline": "World-class IB education in Singapore's eastern region",
+  "description": "The UWCSEA East Campus, opened in 2008, brings the UWC mission to eastern Singapore. With state-of-the-art facilities purpose-built for the 21st century, the East Campus serves students from Kindergarten 1 through Grade 12. Like its sister campus, UWCSEA East offers the full IB continuum combined with UWCSEA's own concept-based curriculum. The campus features a 50-meter Olympic pool, dedicated performing arts spaces, and generous sports fields on a modern, sustainably designed campus in Tampines.",
+  "curriculum": ["IB PYP", "IB MYP", "IB DP", "IGCSE"],
+  "region": "East",
+  "address": "1 Tampines Street 73, Singapore 528704",
+  "nearestMRT": "Tampines MRT (EW2/DT32)",
+  "coordinates": { "lat": 1.3522, "lng": 103.9465 },
+  "feeRange": { "min": 34000, "max": 48000, "currency": "SGD" },
+  "fees": [
+    { "grade": "K1", "annualFee": 34000, "termFee": 11333 },
+    { "grade": "K2 – Grade 1", "annualFee": 36000, "termFee": 12000 },
+    { "grade": "Grade 2 – Grade 5", "annualFee": 38000, "termFee": 12667 },
+    { "grade": "Grade 6 – Grade 8", "annualFee": 42000, "termFee": 14000 },
+    { "grade": "Grade 9 – Grade 10", "annualFee": 45000, "termFee": 15000 },
+    { "grade": "Grade 11 – Grade 12", "annualFee": 48000, "termFee": 16000 }
+  ],
+  "admission": {
+    "process": "Same holistic admissions process as Dover Campus. Applications are evaluated by a committee considering school reports, student statements, references, and assessment performance.",
+    "requirements": ["Online application", "School reports (last 2 years)", "Student personal statement", "Confidential teacher reference"],
+    "deadlines": "Main intake in August; limited January intake available. Applications open one year prior.",
+    "assessmentInfo": "Entrance assessments in English and Mathematics plus an interview. Boarding is not available at the East Campus.",
+    "waitingList": true,
+    "priorityGroups": ["Siblings of enrolled students", "Children of alumni", "UWC national committee nominees"]
+  },
+  "contact": {
+    "phone": "+65 6305 5353",
+    "email": "admissions.east@uwcsea.edu.sg",
+    "website": "https://www.uwcsea.edu.sg"
+  },
+  "stats": {
+    "founded": 2008,
+    "studentCount": 2600,
+    "teacherStudentRatio": "1:10",
+    "averageClassSize": 24,
+    "campusSize": "5.5 hectares"
+  },
+  "facilities": ["50m Olympic pool", "Sports hall", "Performing Arts Centre", "Design & Technology labs", "Library", "Outdoor learning spaces", "Rooftop garden"],
+  "languages": ["English", "Mandarin", "French", "Spanish", "Japanese"],
+  "accreditation": ["EduTrust", "CIS", "WASC", "IB World School"],
+  "faqs": [
+    { "question": "How does UWCSEA East differ from Dover?", "answer": "Both campuses share the same curriculum, mission, and admissions standards. The East Campus is newer (opened 2008), located in Tampines, and does not offer boarding. The Dover Campus has a longer history and boarding from Grade 8." },
+    { "question": "Is there boarding at UWCSEA East?", "answer": "No, boarding is only available at the Dover Campus. East Campus is a day school serving families in the eastern and north-eastern parts of Singapore." },
+    { "question": "What are the fees at UWCSEA East?", "answer": "Fees are identical to the Dover Campus: approximately SGD 34,000 to SGD 48,000 per year depending on grade level (2025/2026)." },
+    { "question": "How do I apply to UWCSEA East?", "answer": "Applications are submitted through the unified UWCSEA admissions portal. You can express a campus preference, and the admissions team will guide you through the process." }
+  ],
+  "seo": {
+    "title": "UWCSEA East Campus — Fees, Curriculum & Admission | EduAtlas",
+    "description": "UWC South East Asia East Campus in Tampines: IB World School for ages 4-18. View fees, curriculum, admission process and facilities at Singapore's newest UWC campus."
+  },
+  "featured": true,
+  "order": 2,
+  "updatedAt": "2026-06-01"
+}

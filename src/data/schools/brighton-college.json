@@ -1,0 +1,29 @@
+{
+  "id": "brighton-college", "name": "Brighton College (Singapore)", "slug": "brighton-college",
+  "logo": "/images/schools/brighton-college/logo.svg", "heroImage": "/images/schools/brighton-college/hero.jpg",
+  "tagline": "A premium British education from one of the UK's top independent schools",
+  "description": "Brighton College (Singapore) opened in 2020 as the first international campus of Brighton College UK, one of England's leading co-educational independent schools. Located near Lorong Chuan, the school offers a British curriculum from Nursery (age 3) through to A-Levels at Sixth Form, with IGCSEs at the secondary level. With approximately 500 students, Brighton College Singapore provides a nurturing yet ambitious environment that mirrors the academic standards and pastoral care of its UK parent school. The campus features purpose-built facilities designed for the Singapore context.",
+  "curriculum": ["IGCSE", "A-Levels"], "region": "North-East",
+  "address": "15 Chuan Lane, Singapore 554912", "nearestMRT": "Lorong Chuan MRT (CC14)",
+  "coordinates": { "lat": 1.3528, "lng": 103.8644 },
+  "feeRange": { "min": 30000, "max": 45000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Nursery – Reception", "annualFee": 30000 },
+    { "grade": "Year 1-2", "annualFee": 33500 },
+    { "grade": "Year 3-6", "annualFee": 36000 },
+    { "grade": "Year 7-9", "annualFee": 39000 },
+    { "grade": "Year 10-11 (IGCSE)", "annualFee": 42000 },
+    { "grade": "Year 12-13 (A-Levels)", "annualFee": 45000 }
+  ],
+  "admission": { "process": "Submit an online application with supporting documents. Children attend an age-appropriate assessment and interview. Brighton College seeks students who will thrive in a British curriculum setting.", "requirements": ["Online application", "School reports", "Birth certificate and passport copy", "Assessment and interview"], "deadlines": "Rolling admissions. Main entry in September. Apply 6-12 months in advance." },
+  "contact": { "phone": "+65 6505 6700", "email": "admissions@brightoncollege.edu.sg", "website": "https://www.brightoncollege.edu.sg" },
+  "stats": { "founded": 2020, "studentCount": 500, "teacherStudentRatio": "1:8", "averageClassSize": 18 },
+  "facilities": ["Performing arts theatre", "Sports hall and swimming pool", "Science and design technology labs", "Library", "Outdoor learning areas", "Music suites"],
+  "languages": ["English", "Mandarin", "French", "Spanish"], "accreditation": ["EduTrust", "FOBISIA", "Cambridge International", "COBIS"],
+  "faqs": [
+    { "question": "Is Brighton College Singapore connected to Brighton College UK?", "answer": "Yes, Brighton College (Singapore) is a sister school of Brighton College UK. The Singapore campus shares the same educational philosophy and high academic standards." },
+    { "question": "Does Brighton College offer boarding?", "answer": "No, Brighton College (Singapore) is a day school only. Boarding is available at the UK parent school for families considering that option." }
+  ],
+  "seo": { "title": "Brighton College Singapore — British IGCSE & A-Levels | EduAtlas", "description": "Brighton College Singapore: premium British curriculum school near Lorong Chuan, opened 2020. IGCSE and A-Levels from Nursery to Sixth Form. View 2026 fees and admissions." },
+  "featured": false, "order": 23, "updatedAt": "2026-06-01"
+}

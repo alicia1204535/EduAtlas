@@ -1,0 +1,45 @@
+{
+  "id": "sas",
+  "name": "Singapore American School",
+  "slug": "sas",
+  "logo": "/images/schools/sas/logo.svg",
+  "heroImage": "/images/schools/sas/hero.jpg",
+  "tagline": "Leading American curriculum school in Singapore since 1956",
+  "description": "Singapore American School (SAS) is one of the largest and most established international schools in Singapore. Founded in 1956, SAS offers an American curriculum from Early Childhood through Grade 12, including 25+ Advanced Placement (AP) courses. The school sits on a sprawling 36-acre campus in Woodlands, featuring world-class facilities including multiple gymnasiums, an aquatic center, a rainforest, and state-of-the-art innovation labs. SAS is known for its extensive extracurricular program with over 200 activities and competitive athletics.",
+  "curriculum": ["AP"],
+  "region": "North",
+  "address": "40 Woodlands Street 41, Singapore 738547",
+  "nearestMRT": "Woodlands South MRT (TE3)",
+  "coordinates": { "lat": 1.4279, "lng": 103.7893 },
+  "feeRange": { "min": 38000, "max": 52000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Early Childhood (PS-PK)", "annualFee": 38000, "termFee": 19000 },
+    { "grade": "Kindergarten – Grade 2", "annualFee": 42000, "termFee": 21000 },
+    { "grade": "Grade 3 – Grade 5", "annualFee": 45000, "termFee": 22500 },
+    { "grade": "Grade 6 – Grade 8", "annualFee": 48000, "termFee": 24000 },
+    { "grade": "Grade 9 – Grade 12", "annualFee": 52000, "termFee": 26000 }
+  ],
+  "admission": {
+    "process": "SAS uses a rolling admissions process. Priority is given to US citizens and students transferring from other American-curriculum schools. Applications require school records, teacher recommendations, and English language proficiency evidence.",
+    "requirements": ["Online application", "School records (2-3 years)", "Teacher recommendations (2)", "English proficiency documentation", "Copy of passport"],
+    "deadlines": "Priority deadline is typically in February for August entry. Rolling admissions continue year-round if space is available.",
+    "assessmentInfo": "Students in Grades 3-12 may be asked to complete admissions assessments. All applicants must demonstrate English proficiency appropriate to their grade level.",
+    "waitingList": true,
+    "priorityGroups": ["US citizens", "Returning families", "Siblings of enrolled students"]
+  },
+  "contact": { "phone": "+65 6363 3403", "email": "admissions@sas.edu.sg", "website": "https://www.sas.edu.sg" },
+  "stats": { "founded": 1956, "studentCount": 4000, "teacherStudentRatio": "1:10", "averageClassSize": 22, "campusSize": "36 acres" },
+  "facilities": ["Aquatic Center", "3 gymnasiums", "Rainforest outdoor classroom", "Innovation Lab", "Performing Arts Center", "Library Media Center", "Athletic fields"],
+  "languages": ["English", "Mandarin", "Spanish", "French"],
+  "accreditation": ["WASC", "EduTrust"],
+  "faqs": [
+    { "question": "What curriculum does SAS follow?", "answer": "SAS offers an American standards-based curriculum with 25+ Advanced Placement (AP) courses at the high school level. The school is accredited by the Western Association of Schools and Colleges (WASC)." },
+    { "question": "Is SAS only for American students?", "answer": "While SAS follows the American curriculum and gives admissions priority to US citizens, it welcomes students of all nationalities. The student body represents over 60 countries." },
+    { "question": "How much does SAS cost?", "answer": "Annual tuition for 2025/2026 ranges from approximately SGD 38,000 (Early Childhood) to SGD 52,000 (Grades 9-12). There is also a one-time registration fee of SGD 9,630 and an annual facilities fee." },
+    { "question": "Where is SAS located?", "answer": "SAS is located on a 36-acre campus in Woodlands, in the northern part of Singapore. It's accessible via the Woodlands South MRT station (Thomson-East Coast Line)." }
+  ],
+  "seo": { "title": "Singapore American School (SAS) — Fees, Curriculum & Admission | EduAtlas", "description": "Singapore American School: Leading US-curriculum school in Singapore (est. 1956). 25+ AP courses, 36-acre campus, 4,000 students. View fees, admission and facilities." },
+  "featured": true,
+  "order": 4,
+  "updatedAt": "2026-06-01"
+}

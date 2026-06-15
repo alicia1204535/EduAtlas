@@ -1,0 +1,43 @@
+{
+  "id": "sji-international",
+  "name": "St. Joseph's Institution International",
+  "slug": "sji-international",
+  "logo": "/images/schools/sji-international/logo.svg",
+  "heroImage": "/images/schools/sji-international/hero.jpg",
+  "tagline": "Lasallian Catholic international school with strong academic tradition",
+  "description": "St. Joseph's Institution International (SJII) is a Lasallian Catholic international school with a strong heritage tracing back to the founding of SJI in 1852. SJII offers a holistic international education rooted in the values of faith, service, and community. The Elementary School follows the IPC (International Primary Curriculum), while the High School offers IGCSEs and the IB Diploma. Located on a modern campus on Thomson Road, SJII is known for its strong pastoral care, service-learning emphasis, character development programme, and consistently excellent IB results.",
+  "curriculum": ["IPC", "IGCSE", "IB DP"],
+  "region": "Central",
+  "address": "490 Thomson Road, Singapore 298191",
+  "nearestMRT": "Caldecott MRT (CC17/TE9)",
+  "coordinates": { "lat": 1.3404, "lng": 103.8334 },
+  "feeRange": { "min": 24000, "max": 35000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Prep 1 – Prep 2", "annualFee": 24000 },
+    { "grade": "Grade 1 – Grade 6", "annualFee": 27000 },
+    { "grade": "Grade 7 – Grade 8", "annualFee": 30000 },
+    { "grade": "Grade 9 – Grade 10", "annualFee": 32000 },
+    { "grade": "Grade 11 – Grade 12", "annualFee": 35000 }
+  ],
+  "admission": {
+    "process": "SJII seeks students who will thrive in a values-based, academically rigorous environment. Applications are submitted online and may include assessments and interviews.",
+    "requirements": ["Online application", "School reports (last 2 years)", "Birth certificate / passport", "Application fee"],
+    "deadlines": "Main intake in August. Applications open in October of the preceding year. Limited mid-year intake.",
+    "assessmentInfo": "Entrance assessments in English and Mathematics. An interview with the family may be required. Students and families should be supportive of the school's Catholic ethos.",
+    "waitingList": true
+  },
+  "contact": { "phone": "+65 6353 9383", "email": "admissions@sji-international.edu.sg", "website": "https://www.sji-international.edu.sg" },
+  "stats": { "founded": 2007, "studentCount": 2000, "teacherStudentRatio": "1:10", "averageClassSize": 22, "campusSize": "Thomson Road campus" },
+  "facilities": ["Chapel", "Library", "Sports Complex", "Performing Arts Centre", "Science Labs", "Design Centre", "Outdoor learning spaces"],
+  "languages": ["English", "Mandarin", "French", "Spanish", "Malay", "Tamil"],
+  "accreditation": ["EduTrust", "IB World School", "IPC Accredited", "Lasallian East Asia District"],
+  "faqs": [
+    { "question": "Is SJI International a Catholic school?", "answer": "Yes, SJII is a Lasallian Catholic school. While it welcomes students of all faiths and backgrounds, families should be supportive of the school's Catholic ethos and values-based education." },
+    { "question": "What curriculum does SJII follow?", "answer": "The Elementary School uses the IPC (International Primary Curriculum). In High School, students take IGCSEs (Grades 9-10) followed by the IB Diploma (Grades 11-12)." },
+    { "question": "How are SJII's academic results?", "answer": "SJII consistently achieves excellent IB Diploma results, with average scores well above the global average. The school has a strong reputation for academic rigor and university placements." }
+  ],
+  "seo": { "title": "SJI International Singapore — Lasallian IB School Fees & Curriculum | EduAtlas", "description": "St. Joseph's Institution International: Lasallian Catholic IB school in Singapore. IPC, IGCSE, IB Diploma. View 2025/2026 fees, admission, and academic results." },
+  "featured": false,
+  "order": 11,
+  "updatedAt": "2026-06-01"
+}

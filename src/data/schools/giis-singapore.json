@@ -1,0 +1,28 @@
+{
+  "id": "giis-singapore", "name": "Global Indian International School (GIIS) Singapore", "slug": "giis-singapore",
+  "logo": "/images/schools/giis-singapore/logo.svg", "heroImage": "/images/schools/giis-singapore/hero.jpg",
+  "tagline": "India's leading international school brand, anchored in Singapore innovation",
+  "description": "Global Indian International School (GIIS) Singapore is one of the largest international schools in the country, serving approximately 3,000 students across its Punggol Smart Campus and East Coast campus. GIIS offers multiple curricula including CBSE (Central Board of Secondary Education), Cambridge IGCSE, and the IB Diploma Programme, allowing families to choose the pathway that best suits their child. The flagship Punggol campus is a next-generation 'smart campus' featuring data-driven learning analytics, digital classrooms, and cutting-edge STEM facilities. GIIS is part of the Global Schools Foundation, with campuses across Asia.",
+  "curriculum": ["Indian", "IGCSE", "IB DP", "Montessori"], "region": "North-East",
+  "address": "27 Punggol Field Walk, Singapore 828649", "nearestMRT": "Punggol MRT (NE17/PTC)",
+  "coordinates": { "lat": 1.4051, "lng": 103.9024 },
+  "feeRange": { "min": 14000, "max": 26000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Nursery – Kindergarten (GMP)", "annualFee": 14000 },
+    { "grade": "Grade 1-5 (CBSE)", "annualFee": 17000 },
+    { "grade": "Grade 6-8 (CBSE/IGCSE)", "annualFee": 20000 },
+    { "grade": "Grade 9-10 (IGCSE/CBSE)", "annualFee": 23000 },
+    { "grade": "Grade 11-12 (IBDP/CBSE)", "annualFee": 26000 }
+  ],
+  "admission": { "process": "Submit an online application with academic records. Students sit for a grade-appropriate entrance assessment. GIIS offers a merit-based scholarship programme for high-performing students.", "requirements": ["Online application", "Previous school reports", "Birth certificate and passport copy", "Entrance assessment"], "deadlines": "Rolling admissions. Academic year runs April to March. Multiple intake windows." },
+  "contact": { "phone": "+65 6914 7100", "email": "admissions@globalindianschool.org", "website": "https://singapore.globalindianschool.org" },
+  "stats": { "founded": 2002, "studentCount": 3000, "teacherStudentRatio": "1:15", "averageClassSize": 25 },
+  "facilities": ["Smart campus with data analytics", "STEM and robotics labs", "Indoor sports complex", "Swimming pool", "Performing arts auditorium", "Digital library"],
+  "languages": ["English", "Hindi", "Mandarin", "Tamil", "French"], "accreditation": ["EduTrust", "IB World School", "Cambridge International", "CBSE"],
+  "faqs": [
+    { "question": "What makes the GIIS Punggol campus a 'smart campus'?", "answer": "The Punggol Smart Campus uses data analytics, facial recognition for attendance, digital classrooms with interactive panels, and real-time learning dashboards to personalise education." },
+    { "question": "Does GIIS offer scholarships?", "answer": "Yes, GIIS offers multiple scholarship programmes including the Global Future-Ready Merit Scholarship and the 9GEMS Holistic Development Scholarship for students excelling in academics, sports, or the arts." }
+  ],
+  "seo": { "title": "GIIS Singapore — CBSE, IBDP & IGCSE at Punggol Smart Campus | EduAtlas", "description": "Global Indian International School Singapore: 3,000 students at Punggol Smart Campus. CBSE, IBDP, IGCSE, Montessori. Scholarships available. View 2026 fees and admission info." },
+  "featured": false, "order": 26, "updatedAt": "2026-06-01"
+}

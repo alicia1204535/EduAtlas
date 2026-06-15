@@ -1,0 +1,43 @@
+{
+  "id": "ofs",
+  "name": "Overseas Family School (OFS)",
+  "slug": "ofs",
+  "logo": "/images/schools/ofs/logo.svg",
+  "heroImage": "/images/schools/ofs/hero.jpg",
+  "tagline": "Inclusive international school serving expatriate families in Singapore",
+  "description": "Overseas Family School (OFS) is one of Singapore's largest international schools, serving over 3,000 students from 70+ nationalities. Founded in 1991, OFS offers the IB curriculum (PYP, MYP, DP) from Kindergarten through Grade 12. The school's modern campus in Pasir Ris features extensive facilities and is particularly known for its strong English as an Additional Language (EAL) programme, mother tongue language offerings, and inclusive approach to international education. OFS prides itself on being a 'family school' that welcomes students of all backgrounds and academic levels.",
+  "curriculum": ["IB PYP", "IB MYP", "IB DP"],
+  "region": "East",
+  "address": "25F Paterson Road, Singapore 238515",
+  "nearestMRT": "Orchard MRT (NS22/TE14)",
+  "coordinates": { "lat": 1.3053, "lng": 103.8299 },
+  "feeRange": { "min": 18000, "max": 32000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Kindergarten 1 – Kindergarten 2", "annualFee": 18000, "termFee": 9000 },
+    { "grade": "Grade 1 – Grade 5", "annualFee": 23000, "termFee": 11500 },
+    { "grade": "Grade 6 – Grade 8", "annualFee": 27000, "termFee": 13500 },
+    { "grade": "Grade 9 – Grade 10", "annualFee": 30000, "termFee": 15000 },
+    { "grade": "Grade 11 – Grade 12", "annualFee": 32000, "termFee": 16000 }
+  ],
+  "admission": {
+    "process": "OFS has a straightforward admissions process with rolling intake throughout the year. The school is known for being accessible and welcoming to students of all academic levels.",
+    "requirements": ["Online application", "School reports", "Passport copy", "Application fee"],
+    "deadlines": "Rolling admissions — students can join at any point during the school year.",
+    "assessmentInfo": "Placement assessments in English and Mathematics. Strong EAL support available for students developing English proficiency.",
+    "waitingList": false
+  },
+  "contact": { "phone": "+65 6738 0211", "email": "admissions@ofs.edu.sg", "website": "https://www.ofs.edu.sg" },
+  "stats": { "founded": 1991, "studentCount": 3000, "teacherStudentRatio": "1:12", "averageClassSize": 24, "campusSize": "Two buildings" },
+  "facilities": ["Sports hall", "Swimming pool", "Library", "Auditorium", "Art studios", "Music rooms", "Outdoor play areas"],
+  "languages": ["English", "Mandarin", "Japanese", "Korean", "French", "Hindi"],
+  "accreditation": ["EduTrust", "IB World School"],
+  "faqs": [
+    { "question": "What makes OFS different?", "answer": "OFS is one of the most inclusive and affordable international schools in Singapore, with strong EAL support and mother tongue programmes. It's a true 'family school' — welcoming students of all backgrounds and academic levels." },
+    { "question": "Does OFS offer mother tongue language support?", "answer": "Yes, OFS offers an extensive mother tongue programme with instruction in over 10 languages, including Mandarin, Japanese, Korean, French, Hindi, and others." },
+    { "question": "Is OFS more affordable than other international schools?", "answer": "Yes, OFS fees are among the most competitive in Singapore, ranging from approximately SGD 18,000 to SGD 32,000 per year — significantly lower than many other international schools." }
+  ],
+  "seo": { "title": "Overseas Family School (OFS) — Affordable IB School Singapore | EduAtlas", "description": "Overseas Family School: Inclusive IB World School in central Singapore. Competitive fees, strong EAL & mother tongue programmes. View 2025/2026 fees and admission." },
+  "featured": false,
+  "order": 10,
+  "updatedAt": "2026-06-01"
+}

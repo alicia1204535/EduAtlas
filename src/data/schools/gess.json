@@ -1,0 +1,43 @@
+{
+  "id": "gess",
+  "name": "German European School Singapore (GESS)",
+  "slug": "gess",
+  "logo": "/images/schools/gess/logo.svg",
+  "heroImage": "/images/schools/gess/hero.jpg",
+  "tagline": "Bilingual German and IB education in a purpose-built campus",
+  "description": "German European School Singapore (GESS) is a unique international school offering both a German curriculum stream (leading to the German International Abitur) and an English-speaking IB stream. Founded in 1971, GESS moved to its award-winning, purpose-built campus in Dairy Farm Lane in 2018. The campus features a 'green heart' design with eco-friendly learning spaces. GESS serves students from 18 months to 18 years and emphasizes bilingualism, European educational values, and a vibrant multicultural community of over 65 nationalities.",
+  "curriculum": ["IB PYP", "IB MYP", "IB DP", "IGCSE"],
+  "region": "West",
+  "address": "2 Dairy Farm Lane, Singapore 677621",
+  "nearestMRT": "Hillview MRT (DT3)",
+  "coordinates": { "lat": 1.3629, "lng": 103.7648 },
+  "feeRange": { "min": 22000, "max": 40000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Pre-School (18 months)", "annualFee": 22000 },
+    { "grade": "Kindergarten", "annualFee": 28000 },
+    { "grade": "Grade 1 – Grade 5", "annualFee": 34000 },
+    { "grade": "Grade 6 – Grade 8", "annualFee": 37000 },
+    { "grade": "Grade 9 – Grade 10", "annualFee": 39000 },
+    { "grade": "Grade 11 – Grade 12", "annualFee": 40000 }
+  ],
+  "admission": {
+    "process": "GESS has two admissions tracks: one for the German section (for German-speaking families) and one for the IB English section. Applications are submitted online with supporting documents.",
+    "requirements": ["Online application", "School reports (2 years)", "Passport copy", "Application fee of SGD 500"],
+    "deadlines": "Rolling admissions. Main intake in August; mid-year entry possible where spaces exist.",
+    "assessmentInfo": "Placement assessments for primary and secondary students. German language proficiency required for German section.",
+    "waitingList": false
+  },
+  "contact": { "phone": "+65 6461 0881", "email": "admissions@gess.edu.sg", "website": "https://www.gess.edu.sg" },
+  "stats": { "founded": 1971, "studentCount": 1800, "teacherStudentRatio": "1:9", "averageClassSize": 20, "campusSize": "5.5 hectares" },
+  "facilities": ["Green Heart eco-garden", "Olympic-size swimming pool", "Sports hall", "Auditorium", "Library", "Design & Technology Centre", "Outdoor amphitheatre"],
+  "languages": ["German", "English", "Mandarin", "French", "Spanish", "Danish", "Dutch"],
+  "accreditation": ["EduTrust", "IB World School", "German Government (KMK approved)"],
+  "faqs": [
+    { "question": "What makes GESS different from other international schools?", "answer": "GESS uniquely offers both a German curriculum stream (leading to the German Abitur) and an English IB stream on the same campus. Its award-winning eco-friendly campus and European heritage create a distinctive educational environment." },
+    { "question": "Do I need to be German to attend GESS?", "answer": "No. The English-speaking IB section is open to students of all nationalities. The German section serves German-speaking families but is not exclusively for German citizens." }
+  ],
+  "seo": { "title": "GESS — International School Singapore | Fees & Curriculum | EduAtlas", "description": "German European School Singapore (GESS): Dual curriculum school (German Abitur & IB) for ages 18 months-18 years. View 2025/2026 fees, admission and eco-friendly campus." },
+  "featured": false,
+  "order": 9,
+  "updatedAt": "2026-06-01"
+}

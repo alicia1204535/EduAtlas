@@ -1,0 +1,61 @@
+{
+  "id": "tanglin-trust",
+  "name": "Tanglin Trust School",
+  "slug": "tanglin-trust",
+  "logo": "/images/schools/tanglin-trust/logo.svg",
+  "heroImage": "/images/schools/tanglin-trust/hero.jpg",
+  "tagline": "The oldest British international school in Southeast Asia",
+  "description": "Tanglin Trust School is the oldest British international school in Southeast Asia, founded in 1925. Located in the leafy Portsdown Road area near one-north, Tanglin provides a British-based education for children aged 3 to 18. The school follows the English National Curriculum, leading to IGCSEs in Years 10-11, followed by either A-Levels or the IB Diploma in Sixth Form. Tanglin is known for its strong pastoral care, excellent academic results, and a tight-knit community feel that comes from its long history and deep roots in Singapore.",
+  "curriculum": ["IGCSE", "A-Levels", "IB DP"],
+  "region": "Central",
+  "address": "95 Portsdown Road, Singapore 139299",
+  "nearestMRT": "one-north MRT (CC23)",
+  "coordinates": { "lat": 1.2967, "lng": 103.7923 },
+  "feeRange": { "min": 28000, "max": 48000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Nursery", "annualFee": 28450, "termFee": 9483 },
+    { "grade": "Reception", "annualFee": 32600, "termFee": 10867 },
+    { "grade": "Year 1 – Year 2", "annualFee": 34800, "termFee": 11600 },
+    { "grade": "Year 3 – Year 4", "annualFee": 37200, "termFee": 12400 },
+    { "grade": "Year 5 – Year 6", "annualFee": 39100, "termFee": 13033 },
+    { "grade": "Year 7 – Year 9", "annualFee": 43200, "termFee": 14400 },
+    { "grade": "Year 10 – Year 11", "annualFee": 45500, "termFee": 15167 },
+    { "grade": "Year 12 – Year 13", "annualFee": 47800, "termFee": 15933 }
+  ],
+  "admission": {
+    "process": "Applications are accepted year-round for most year groups. Families submit an online application with supporting documents. Assessments and interviews are conducted to ensure the school is a good fit for the child.",
+    "requirements": ["Completed online application", "School reports from current school", "Copy of passport and NRIC/FIN", "Application fee of SGD 500"],
+    "deadlines": "Rolling admissions throughout the year. Recommended to apply 12 months in advance for popular year groups.",
+    "assessmentInfo": "Entrance assessment in English and Mathematics, plus an interview. Nursery and Reception assessments are play-based.",
+    "waitingList": true,
+    "priorityGroups": ["British passport holders (as per school's British mandate)", "Siblings of current students", "Children of alumni"]
+  },
+  "contact": {
+    "phone": "+65 6770 3141",
+    "email": "admissions@tts.edu.sg",
+    "website": "https://www.tts.edu.sg"
+  },
+  "stats": {
+    "founded": 1925,
+    "studentCount": 2800,
+    "teacherStudentRatio": "1:11",
+    "averageClassSize": 22,
+    "campusSize": "5 acres"
+  },
+  "facilities": ["Swimming pool", "Sports hall", "Performing Arts Centre", "Library", "Design & Technology Centre", "Outdoor learning spaces", "Sixth Form Centre"],
+  "languages": ["English", "Mandarin", "French", "Spanish", "Malay"],
+  "accreditation": ["EduTrust", "BSO", "FOBISIA", "HMC"],
+  "faqs": [
+    { "question": "What curriculum does Tanglin Trust follow?", "answer": "Tanglin follows the English National Curriculum from Nursery to Year 9, leading to IGCSEs (Years 10-11), then a choice of A-Levels or the IB Diploma (Years 12-13)." },
+    { "question": "Are there school fees discounts?", "answer": "Tanglin offers a sibling discount for the third and subsequent children. The school is a registered charity; fees cover the cost of operating the school without profit." },
+    { "question": "Is Tanglin Trust only for British students?", "answer": "While Tanglin has a British foundation and mandate, it welcomes students of all nationalities. The student body represents over 50 nationalities, though British students make up the largest cohort." },
+    { "question": "How much are the school fees at Tanglin Trust?", "answer": "Annual fees for 2025/2026 range from approximately SGD 28,450 (Nursery) to SGD 47,800 (Sixth Form), divided into three terms." }
+  ],
+  "seo": {
+    "title": "Tanglin Trust School — British International School Singapore | EduAtlas",
+    "description": "Tanglin Trust School: Oldest British international school in Singapore (founded 1925) for ages 3-18. IGCSE, A-Levels and IB Diploma. View fees, admission and curriculum."
+  },
+  "featured": true,
+  "order": 3,
+  "updatedAt": "2026-06-01"
+}

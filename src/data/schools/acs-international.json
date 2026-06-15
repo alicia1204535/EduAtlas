@@ -1,0 +1,26 @@
+{
+  "id": "acs-international", "name": "ACS (International) Singapore", "slug": "acs-international",
+  "logo": "/images/schools/acs-international/logo.svg", "heroImage": "/images/schools/acs-international/hero.jpg",
+  "tagline": "Methodist values, Anglo-Chinese heritage, world-class IB outcomes",
+  "description": "ACS (International) Singapore is part of the prestigious Anglo-Chinese School family of Methodist institutions, with a heritage dating back to 1886. Located on the ACS Barker Road campus, the school serves approximately 1,000 students from Year 1 through Year 6 of secondary education. ACS (International) offers Cambridge IGCSE at Years 3-4 and the IB Diploma Programme at Years 5-6, consistently achieving outstanding IB results. The school blends academic excellence with strong Methodist character education, producing graduates well-prepared for top universities worldwide.",
+  "curriculum": ["IGCSE", "IB DP"], "region": "Central",
+  "address": "61 Jalan Hitam Manis, Singapore 278475", "nearestMRT": "Napier MRT (TE12)",
+  "coordinates": { "lat": 1.3094, "lng": 103.8168 },
+  "feeRange": { "min": 27000, "max": 37000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Year 1-2", "annualFee": 27000 },
+    { "grade": "Year 3-4 (IGCSE)", "annualFee": 32000 },
+    { "grade": "Year 5-6 (IBDP)", "annualFee": 37000 }
+  ],
+  "admission": { "process": "ACS (International) admits students who demonstrate academic potential and character. Submit an application, then sit for an entrance test in English and Mathematics, followed by a student interview.", "requirements": ["Completed application form", "School reports", "Passport copy", "Entrance examination", "Interview"], "deadlines": "Applications open one year in advance. Main intake in January (Year 1) and July (other years)." },
+  "contact": { "phone": "+65 6472 1477", "email": "admissions@acsinternational.edu.sg", "website": "https://www.acsinternational.edu.sg" },
+  "stats": { "founded": 2005, "studentCount": 1000, "teacherStudentRatio": "1:9", "averageClassSize": 22 },
+  "facilities": ["Chapel", "Library and resource centre", "Science laboratories", "Sports complex", "Performing arts centre", "Design and technology studios"],
+  "languages": ["English", "Mandarin", "Malay", "Tamil"], "accreditation": ["EduTrust", "IB World School", "Cambridge International"],
+  "faqs": [
+    { "question": "Is ACS (International) the same as ACS (Independent)?", "answer": "No. ACS (International) is a private international school offering IGCSE and IBDP, while ACS (Independent) is a local secondary school under the MOE system. Both share the same Methodist heritage." },
+    { "question": "How are the IB results at ACS (International)?", "answer": "ACS (International) consistently achieves above-world-average IB Diploma results, with a typical average score above 35 points and many students scoring 40+." }
+  ],
+  "seo": { "title": "ACS International Singapore — IGCSE & IBDP Methodist School | EduAtlas", "description": "ACS (International) Singapore: Anglo-Chinese School heritage since 1886. IGCSE and IB Diploma near Napier. Strong academic results. View 2026 fees and admission details." },
+  "featured": false, "order": 22, "updatedAt": "2026-06-01"
+}

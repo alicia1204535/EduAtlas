@@ -1,0 +1,19 @@
+{
+  "id": "invictus", "name": "Invictus International School", "slug": "invictus",
+  "logo": "/images/schools/invictus/logo.svg", "heroImage": "/images/schools/invictus/hero.jpg",
+  "tagline": "Affordable international education with multiple campuses across Singapore",
+  "description": "Invictus International School offers affordable international education at multiple campuses across Singapore: Dempsey (K1-G6), Centrium Square (G1-G6), and Bukit Timah. Invictus follows the IPC (International Primary Curriculum) and Cambridge Lower Secondary, leading to IGCSEs. With fees significantly lower than most international schools, Invictus aims to democratise international education in Singapore.",
+  "curriculum": ["IPC", "Cambridge", "IGCSE"], "region": "Central",
+  "address": "73 Loewen Road, #01-21, Singapore 248843", "nearestMRT": "Napier MRT (TE12)",
+  "coordinates": { "lat": 1.3048, "lng": 103.8117 },
+  "feeRange": { "min": 15000, "max": 20000, "currency": "SGD" },
+  "fees": [{ "grade": "Year 1-2", "annualFee": 15000 }, { "grade": "Year 3-6", "annualFee": 17000 }, { "grade": "Year 7-9", "annualFee": 19000 }],
+  "admission": { "process": "Straightforward application process with minimal wait times.", "requirements": ["Online application", "School reports", "Passport copy"], "deadlines": "Rolling admissions year-round." },
+  "contact": { "phone": "+65 6258 6488", "email": "enquiries@invictus.edu.sg", "website": "https://www.invictus.edu.sg" },
+  "stats": { "founded": 2015, "studentCount": 800, "teacherStudentRatio": "1:12", "averageClassSize": 20 },
+  "facilities": ["Learning spaces", "Play areas", "Library", "Canteen"],
+  "languages": ["English", "Mandarin"], "accreditation": ["EduTrust", "Cambridge International"],
+  "faqs": [{ "question": "Why is Invictus more affordable?", "answer": "Invictus operates on a leaner model, including renting campus spaces rather than owning large purpose-built facilities. This allows fees to be significantly lower than traditional international schools." }],
+  "seo": { "title": "Invictus International School Singapore — Affordable International Education | EduAtlas", "description": "Invictus International School: Most affordable international school in Singapore (from SGD 15,000/year). IPC, Cambridge & IGCSE curriculum across 3 campuses." },
+  "featured": false, "order": 18, "updatedAt": "2026-06-01"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "north-london-collegiate", "name": "North London Collegiate School (Singapore)", "slug": "north-london-collegiate",
+  "logo": "/images/schools/north-london-collegiate/logo.svg", "heroImage": "/images/schools/north-london-collegiate/hero.jpg",
+  "tagline": "World-class British education from one of the UK's top-performing schools",
+  "description": "North London Collegiate School (Singapore) is the first international campus of NLCS UK, one of Britain's highest-achieving independent day schools for girls. Opened in 2020 and located near Yishun, the Singapore campus is co-educational and serves approximately 1,000 students from Pre-K through Grade 12. NLCS Singapore offers IGCSE at the secondary level and the IB Diploma Programme at Sixth Form, combining British academic rigour with the global perspective of the IB. The purpose-built campus features state-of-the-art science labs, performing arts spaces, and extensive sports facilities, all set within a lush green environment.",
+  "curriculum": ["IGCSE", "IB DP"], "region": "North",
+  "address": "130 Depot Road, Singapore 109708", "nearestMRT": "Canberra MRT (NS12)",
+  "coordinates": { "lat": 1.4423, "lng": 103.8284 },
+  "feeRange": { "min": 35000, "max": 48000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Pre-K – Kindergarten", "annualFee": 35000 },
+    { "grade": "Grade 1-5", "annualFee": 38000 },
+    { "grade": "Grade 6-8", "annualFee": 42000 },
+    { "grade": "Grade 9-10 (IGCSE)", "annualFee": 45000 },
+    { "grade": "Grade 11-12 (IBDP)", "annualFee": 48000 }
+  ],
+  "admission": { "process": "NLCS seeks academically curious and well-rounded students. Applications involve an age-appropriate cognitive assessment, English and Mathematics tests, and a student interview.", "requirements": ["Online application", "School reports", "Passport copy", "Cognitive assessment", "Interview"], "deadlines": "Main intake in August. Apply by January for priority consideration. Rolling admissions thereafter." },
+  "contact": { "phone": "+65 6980 3300", "email": "admissions@nlcssingapore.sg", "website": "https://www.nlcssingapore.sg" },
+  "stats": { "founded": 2020, "studentCount": 1000, "teacherStudentRatio": "1:8", "averageClassSize": 18 },
+  "facilities": ["Olympic-sized swimming pool", "Performing arts centre", "STEAM laboratories", "Library and media centre", "Sports field and indoor gymnasium", "Music practice rooms"],
+  "languages": ["English", "Mandarin", "French", "Spanish", "Latin"], "accreditation": ["EduTrust", "IB World School", "Cambridge International", "FOBISIA"],
+  "faqs": [
+    { "question": "Is NLCS Singapore connected to the UK school?", "answer": "Yes, NLCS Singapore is a sister school of NLCS UK in London. The founding Principal came from NLCS UK, and the schools share educational philosophy and academic standards." },
+    { "question": "Is NLCS Singapore only for girls?", "answer": "No. While the UK parent school is one of the UK's leading girls' schools, NLCS Singapore is co-educational, welcoming both boys and girls from Pre-K through Grade 12." }
+  ],
+  "seo": { "title": "NLCS Singapore — Premium British IGCSE & IBDP Education | EduAtlas", "description": "North London Collegiate School Singapore: elite British international school near Yishun. IGCSE and IBDP from Pre-K to Grade 12. Opened 2020. View 2026 fees and admissions." },
+  "featured": false, "order": 27, "updatedAt": "2026-06-01"
+}

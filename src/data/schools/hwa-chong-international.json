@@ -1,0 +1,32 @@
+{
+  "id": "hwa-chong-international",
+  "name": "Hwa Chong International School (HCIS)",
+  "slug": "hwa-chong-international",
+  "logo": "/images/schools/hwa-chong-international/logo.svg",
+  "heroImage": "/images/schools/hwa-chong-international/hero.jpg",
+  "tagline": "Premium bilingual international school affiliated with Hwa Chong Institution",
+  "description": "Hwa Chong International School (HCIS) is affiliated with the prestigious Hwa Chong Institution. Located in Bukit Timah, HCIS offers a six-year integrated programme leading to the IB Diploma. The school emphasizes bilingual education in English and Chinese, blending Eastern and Western educational values. HCIS is known for strong academic results and a vibrant Chinese cultural programme.",
+  "curriculum": ["IGCSE", "IB DP"],
+  "region": "Central",
+  "address": "663 Bukit Timah Road, Singapore 269783",
+  "nearestMRT": "Tan Kah Kee MRT (DT8)",
+  "coordinates": { "lat": 1.3316, "lng": 103.8067 },
+  "feeRange": { "min": 28000, "max": 35000, "currency": "SGD" },
+  "fees": [
+    { "grade": "Secondary 1 – 2", "annualFee": 28000 },
+    { "grade": "Secondary 3 – 4 (IGCSE)", "annualFee": 31000 },
+    { "grade": "IB Foundation – IB Diploma", "annualFee": 35000 }
+  ],
+  "admission": { "process": "Selective admissions with entrance tests and interviews.", "requirements": ["Online application", "School reports", "Entrance test"], "deadlines": "Annual intake in January." },
+  "contact": { "phone": "+65 6464 7077", "email": "admissions@hcis.edu.sg", "website": "https://www.hcis.edu.sg" },
+  "stats": { "founded": 2005, "studentCount": 1000, "teacherStudentRatio": "1:9", "averageClassSize": 25 },
+  "facilities": ["Library", "Science Labs", "Sports Complex", "Performing Arts Centre", "Innovation Centre"],
+  "languages": ["English", "Mandarin"],
+  "accreditation": ["EduTrust", "IB World School", "Cambridge International"],
+  "faqs": [
+    { "question": "Is HCIS linked to Hwa Chong Institution?", "answer": "Yes, HCIS is the international arm of Hwa Chong Institution, one of Singapore's top independent schools. HCIS shares some facilities and cultural links with HCI." },
+    { "question": "What makes HCIS unique?", "answer": "HCIS offers a strong bilingual English-Chinese programme alongside rigorous academics. Its IB Diploma results are consistently excellent." }
+  ],
+  "seo": { "title": "Hwa Chong International School Singapore — IB School Fees & Curriculum | EduAtlas", "description": "HCIS: Premier bilingual international school in Bukit Timah. Affiliated with Hwa Chong Institution. IGCSE & IB Diploma. View 2025/2026 fees and admission." },
+  "featured": false, "order": 14, "updatedAt": "2026-06-01"
+}
